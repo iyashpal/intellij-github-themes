@@ -1,4 +1,11 @@
-<scheme name="GitHub - Dark" parent_scheme="Dracula" version="1">
+<scheme name="GitHub - Dark" parent_scheme="Default" version="1">
+  <metaInfo>
+    <property name="created">2023-01-09T23:24:00</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2022.3.1</property>
+    <property name="modified">2023-01-09T23:24:00</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="24292E" />
     <option name="LINE_NUMBERS_COLOR" value="E1E4E8" />

@@ -2,6 +2,11 @@
 
 # GitHub Themes Changelog
 
+## [0.0.2]
+
+- `parent_scheme` value updated for all  themes.
+- `metainfo` updated in all themes.
+
 ## [0.0.1]
 
 ### New themes added
