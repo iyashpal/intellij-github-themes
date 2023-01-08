@@ -1,6 +1,19 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# intellij-github-themes Changelog
+# GitHub Themes Changelog
+
+## [0.0.1]
+
+### New themes added
+- GitHub Dark
+- GitHub Dark Dimmed
+- GitHub Dark Default
+- GitHub Dark Colorblind
+- GitHub Dark High Contrast
+- GitHub Light
+- GitHub Light Default
+- GitHub Light Colorblind
+- GitHub Light High Contrast
 
 ## [Unreleased]
 ### Added
