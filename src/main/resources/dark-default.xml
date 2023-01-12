@@ -14,7 +14,21 @@
     <option name="CARET_COLOR" value="58A6FF" />
     <option name="LINE_NUMBERS_COLOR" value="C9D1D9" />
     <option name="SELECTED_INDENT_GUIDE" value="484F58" />
-    <option name="GUTTER_BACKGROUND" value="0D1117" />
+    <option name="GUTTER_BACKGROUND" value="0f172a" />
+    <!-- General > Popups and Hints -->
+    <option name="LOOKUP_COLOR" value="" />
+    <option name="INFORMATION_HINT" value="" />
+    <option name="DOCUMENTATION_COLOR" value="" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="" />
+    <!-- VCS > Editor Gutter -->
+    <option name="BORDER_LINES_COLOR" value="" />
+    <option name="CHANGED_LINES_POPUP" value="0d1117" />
+    <option name="ADDED_LINES_COLOR" value="498154" />
+    <option name="DELETED_LINES_COLOR" value="cc7d7d" />
+    <option name="MODIFIED_LINES_COLOR" value="f1bb41" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="cc7d7d" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="f1bb41" />
+    
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
