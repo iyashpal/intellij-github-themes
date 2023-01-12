@@ -57,6 +57,41 @@
       </value>
     </option>
 
+    <!-- Language Defaults > Inline hints > Default -->
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="94a3b8" />
+        <option name="BACKGROUND" value="1f2937" />
+      </value>
+    </option>
+    <!-- Language Defaults > Inline hints > Parameters > Default -->
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="94a3b8" />
+        <option name="BACKGROUND" value="1f2937" />
+      </value>
+    </option>
+    <!-- Language Defaults > Inline hints > Parameters > Current -->
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="94a3b8" />
+        <option name="BACKGROUND" value="1f2937" />
+      </value>
+    </option>
+    <!-- Language Defaults > Inline hints > Parameters > Highlighted -->
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="94a3b8" />
+        <option name="BACKGROUND" value="1f2937" />
+      </value>
+    </option>
+    <!-- Console Colors > Terminal > Command to run using IDE -->
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="25334F" />
+      </value>
+    </option>
+
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6E3B3B" />
