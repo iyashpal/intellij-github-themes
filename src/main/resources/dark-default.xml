@@ -31,6 +31,32 @@
     
   </colors>
   <attributes>
+    <!-- Diff & Merge > Changed Lines -->
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="88533a" />
+        <option name="ERROR_STRIPE_COLOR" value="db6d28" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="803d3b" />
+        <option name="ERROR_STRIPE_COLOR" value="f85149" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="427c48" />
+        <option name="ERROR_STRIPE_COLOR" value="3fb950" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="735c37" />
+        <option name="ERROR_STRIPE_COLOR" value="d29922" />
+      </value>
+    </option>
+
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6E3B3B" />
