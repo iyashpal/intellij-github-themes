@@ -28,6 +28,9 @@
     <option name="MODIFIED_LINES_COLOR" value="f1bb41" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="cc7d7d" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="f1bb41" />
+    <!-- VCS > VCS Annotations -->
+    <option name="ANNOTATIONS_COLOR" value="0F172A" />
+    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="365ce" />
     
   </colors>
   <attributes>
