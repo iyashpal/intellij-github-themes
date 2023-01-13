@@ -2,6 +2,9 @@
 
 # GitHub Themes Changelog
 
+## [0.0.3]
+- Editor UI updated for `Github - Dark` and `Github - Dark Default` themes. 
+
 ## [0.0.2]
 
 - `parent_scheme` value updated for all  themes.

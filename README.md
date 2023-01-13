@@ -11,8 +11,6 @@
 
 The development of this theme plugin focuses to bring the official GitHub color schemes as much as possible to your IntelliJ based IDEs, such as IntelliJ IDEA, PhpStorm, WebStorm, and PyCharm etc.
 
-Thanks to [JetBrain's Team](https://github.com/JetBrains) for building such a great [Color Scheme Tool](https://github.com/JetBrains/colorSchemeTool) which helps us to convert TextMate and VS Code color schemes and make them compatible with IntelliJ-based IDEs.
-
 <!-- Plugin description end -->
 
 ---
