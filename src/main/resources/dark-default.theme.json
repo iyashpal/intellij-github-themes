@@ -348,16 +348,19 @@
       "borderColor": "slate700",
       "linkForeground": "blue100",
       "borderInsets": "4,4,4,0",
+
       "Button": {
         "background": "gray600",
         "borderColor": "gray300",
         "foreground": "white"
       },
+
       "MoreButton": {
         "background": "slate700",
         "innerBorderColor": "gray600",
         "foreground": "gray100"
       },
+
       "ToolWindow": {
 
         "background": "slate900",
@@ -384,7 +387,7 @@
       },
 
       "Notification": {
-        "hoverBackground": "slate800"
+        "hoverBackground": "slate900"
       }
     },
 
