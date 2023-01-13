@@ -125,65 +125,79 @@
   "ui": {
 
     "*": {
-      "foreground": "gray200",
+      "foreground": "slate300",
       "background":  "black",
       "borderColor": "gray800",
 
       "disabledText": "gray400",
       "disabledForeground": "gray400",
       "inactiveForeground": "gray400",
-      "disabledBackground": "slate700",
-      "disabledBorderColor": "gray600",
+      "inactiveBackground": "slate900",
+      "disabledBackground": "slate900",
+      "disabledBorderColor": "slate600",
 
       "selectionBackground": "blue900",
       "lightSelectionBackground": "blue900",
-      "hoverBackground": "gray600",
-      "selectionForeground": "gray200",
-      "selectionInactiveForeground": "gray200",
-      "selectionInactiveBackground": "gray600",
+      "hoverBackground": "slate900",
+      "selectionForeground": "slate200",
+      "selectionInactiveForeground": "slate200",
+      "selectionInactiveBackground": "slate600",
 
-      "infoForeground": "gray300",
-      "acceleratorForeground": "gray300",
-      "shortcutForeground": "gray300",
+      "infoForeground": "slategray300",
+      "acceleratorForeground": "slate300",
+      "shortcutForeground": "slate300",
 
       "underlineColor": "blue500",
-      "inactiveUnderlineColor": "gray400",
+      "inactiveUnderlineColor": "slate400",
 
       "focusColor": "blue500",
 
-      "separatorColor": "gray600",
-      "separatorForeground": "gray300",
+      "separatorColor": "slate600",
+      "separatorForeground": "slate300",
 
       "modifiedItemForeground": "blue100"
     },
 
     "ActionButton": {
-      "hoverBackground": "gray600",
-      "hoverBorderColor": "gray600",
-      "pressedBackground": "gray500",
-      "pressedBorderColor": "gray500",
+      "hoverBackground": "slate800",
+      "hoverBorderColor": "slate600",
+      "pressedBackground": "slate800",
+      "pressedBorderColor": "slate600",
       "focusedBorderColor": "blue500",
-      "hoverSeparatorColor": "gray400"
+      "hoverSeparatorColor": "slate600"
     },
 
     "Bookmark": {
-      "Mnemonic.iconForeground": "white",
-      "MnemonicAvailable.borderColor": "gray500",
-      "MnemonicAssigned.background": "orange400",
-      "MnemonicAssigned.foreground": "gray800",
-      "MnemonicCurrent.background": "blue400"
+      "Mnemonic": {
+        "iconForeground": "white"
+      },
+
+      "MnemonicAvailable": {
+        "borderColor": "slate500"
+      },
+
+      "MnemonicAssigned": {
+        "background": "orange400",
+        "foreground": "slate800"
+      },
+
+      "MnemonicCurrent": {
+        "background": "blue400"
+      }
     },
 
-    "Borders.color": "gray800",
-    "Borders.ContrastBorderColor": "gray800",
+    "Borders" : {
+      "color": "gray800",
+      "ContrastBorderColor": "gray800"
+    },
 
     "Breakpoint.iconHoverAlpha": 0.35,
 
     "Button": {
       "startBackground": "slate700",
       "endBackground": "slate700",
-      "startBorderColor": "gray500",
-      "endBorderColor": "gray500",
+      "startBorderColor": "slate500",
+      "endBorderColor": "slate500",
       "focusedBorderColor": "slate700",
       "shadowColor": "#00000000",
 
@@ -193,8 +207,8 @@
         "endBackground": "blue500",
         "startBorderColor": "blue500",
         "endBorderColor": "blue500",
-        "focusedBorderColor": "gray800",
-        "shadowColor": "#00000000"
+        "focusedBorderColor": "slate800",
+        "shadowColor": "black"
       }
     },
 
@@ -330,8 +344,8 @@
     },
 
     "Notification": {
-      "background": "gray600",
-      "borderColor": "gray600",
+      "background": "slate900",
+      "borderColor": "slate700",
       "linkForeground": "blue100",
       "borderInsets": "4,4,4,0",
       "Button": {
@@ -345,16 +359,21 @@
         "foreground": "gray100"
       },
       "ToolWindow": {
-        "errorForeground": "gray200",
-        "warningForeground": "gray200",
-        "informativeForeground": "gray200",
 
+        "background": "slate900",
+
+        "informativeForeground": "gray200",
+        "informativeBackground": "darkgreen900",
+        "informativeBorderColor": "darkgreen800",
+
+        "errorForeground": "gray200",
         "errorBackground": "red800",
         "errorBorderColor": "red800",
+
+        "warningForeground": "gray200",
         "warningBackground": "yellow700",
-        "warningBorderColor": "yellow600",
-        "informativeBackground": "darkgreen900",
-        "informativeBorderColor": "darkgreen800"
+        "warningBorderColor": "yellow600"
+
       }
     },
 
@@ -378,7 +397,7 @@
       "Advertiser": {
         "borderInsets": "6,20,6,20",
         "foreground": "gray200",
-        "background": "gray600",
+        "background": "slate900",
         "borderColor": "gray600",
         "fontSizeOffset": {
           "os.default": -1,
@@ -475,7 +494,10 @@
       }
     },
 
+
+
     "TabbedPane": {
+      "background": "slate900",
       "tabHeight": 40,
       "tabInsets": "0,12,0,12",
       "tabSelectionArc": 4,
@@ -497,11 +519,12 @@
     "Tag.background": "gray600",
 
     "ToolTip":{
-      "background": "slate700",
-      "borderColor": "slate600",
-      "foreground": "gray100",
-      "infoForeground": "gray100",
-      "shortcutForeground": "gray100",
+      "background": "black",
+      "borderColor": "slate800",
+      "foreground": "slate100",
+      "infoForeground": "slate100",
+      "shortcutForeground": "slate100",
+
       "Actions": {
         "background": "gray800"
       },
@@ -517,10 +540,10 @@
     },
 
     "GotItTooltip": {
-      "background": "gray600",
-      "borderColor": "gray600",
-      "shortcutForeground": "gray100",
-      "linkForeground": "blue100"
+      "background": "slate900",
+      "borderColor": "slate700",
+      "shortcutForeground": "slate100",
+      "linkForeground": "slate100"
     },
 
     "ValidationTooltip": {
@@ -532,7 +555,7 @@
 
     "ToolWindow": {
       "Header": {
-        "inactiveBackground": "slate700",
+        "inactiveBackground": "slate900",
         "font.size.offset": 0
       },
       "HeaderTab": {
@@ -551,7 +574,7 @@
       "Icon": {
         "borderInsets": "10,10,10,10",
         "background": "slate700",
-        "pressedBackground": "gray600"
+        "pressedBackground": "slate900"
       },
       "Dropdown": {
         "borderInsets": "3,12,3,6",
@@ -569,6 +592,8 @@
       "hash": "gray500",
       "border": "4,12,4,12"
     },
+
+
 
     "TitlePane": {
       "Button": {
