@@ -136,8 +136,8 @@
       "disabledBackground": "slate900",
       "disabledBorderColor": "slate600",
 
-      "selectionBackground": "blue900",
-      "lightSelectionBackground": "blue900",
+      "selectionBackground": "darkgreen900",
+      "lightSelectionBackground": "darkgreen900",
       "hoverBackground": "slate900",
       "selectionForeground": "slate200",
       "selectionInactiveForeground": "slate200",
@@ -203,10 +203,10 @@
 
       "default": {
         "foreground": "white",
-        "startBackground": "blue500",
-        "endBackground": "blue500",
-        "startBorderColor": "blue500",
-        "endBorderColor": "blue500",
+        "startBackground": "darkgreen500",
+        "endBackground": "darkgreen500",
+        "startBorderColor": "darkgreen500",
+        "endBorderColor": "darkgreen500",
         "focusedBorderColor": "slate800",
         "shadowColor": "black"
       }
@@ -696,22 +696,22 @@
       "runningBackground": "blue600",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028",
-      "separatorColor": "#FFFFFF40"
+      "separatorColor": "#FFFFFF30"
     }
   },
 
   "icons": {
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "slate700",
-      "Checkbox.Border.Default.Dark": "gray500",
+      "Checkbox.Border.Default.Dark": "slate500",
       "Checkbox.Foreground.Selected.Dark": "white",
-      "Checkbox.Background.Selected.Dark": "blue500",
-      "Checkbox.Border.Selected.Dark": "blue500",
+      "Checkbox.Background.Selected.Dark": "darkgreen500",
+      "Checkbox.Border.Selected.Dark": "darkgreen500",
       "Checkbox.Focus.Thin.Default.Dark": "#101012",
       "Checkbox.Focus.Thin.Selected.Dark": "#101012",
-      "Checkbox.Focus.Wide.Dark": "blue500",
-      "Checkbox.Foreground.Disabled.Dark": "gray500",
-      "Checkbox.Border.Disabled.Dark": "gray600",
+      "Checkbox.Focus.Wide.Dark": "darkgreen500",
+      "Checkbox.Foreground.Disabled.Dark": "slate500",
+      "Checkbox.Border.Disabled.Dark": "slate600",
       "Checkbox.Background.Disabled.Dark": "slate700"
     }
   }
