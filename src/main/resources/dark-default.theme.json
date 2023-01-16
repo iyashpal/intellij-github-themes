@@ -692,8 +692,8 @@
     },
     "RunWidget" : {
       "foreground": "white",
-      "background": "blue600",
-      "runningBackground": "darkgreen500",
+      "background": "darkgreen500",
+      "runningBackground": "blue600",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028",
       "separatorColor": "#FFFFFF40"
