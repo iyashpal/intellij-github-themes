@@ -125,9 +125,9 @@
   "ui": {
 
     "*": {
-      "foreground": "slate300",
+      "foreground": "slate100",
       "background":  "black",
-      "borderColor": "gray800",
+      "borderColor": "slate800",
 
       "disabledText": "gray400",
       "disabledForeground": "gray400",
@@ -136,11 +136,11 @@
       "disabledBackground": "slate900",
       "disabledBorderColor": "slate600",
 
-      "selectionBackground": "darkgreen900",
-      "lightSelectionBackground": "darkgreen900",
+      "selectionBackground": "gray800",
+      "lightSelectionBackground": "gray800",
       "hoverBackground": "slate900",
-      "selectionForeground": "slate200",
-      "selectionInactiveForeground": "slate200",
+      "selectionForeground": "gray100",
+      "selectionInactiveForeground": "gray100",
       "selectionInactiveBackground": "slate900",
 
       "infoForeground": "slategray300",
@@ -150,11 +150,10 @@
       "underlineColor": "blue500",
       "inactiveUnderlineColor": "slate400",
 
-      "focusColor": "blue500",
+      "focusColor": "slate600",
 
       "separatorColor": "slate600",
       "separatorForeground": "slate300",
-
       "modifiedItemForeground": "blue100"
     },
 
@@ -198,8 +197,8 @@
       "endBackground": "slate700",
       "startBorderColor": "slate500",
       "endBorderColor": "slate500",
-      "focusedBorderColor": "slate700",
-      "shadowColor": "#00000000",
+      "focusedBorderColor": "slate400",
+      "shadowColor": "black",
 
       "default": {
         "foreground": "white",
@@ -207,7 +206,8 @@
         "endBackground": "darkgreen500",
         "startBorderColor": "darkgreen500",
         "endBorderColor": "darkgreen500",
-        "focusedBorderColor": "slate800",
+        "focusedBorderColor": "darkgreen800",
+        "focusColor": "darkgreen400",
         "shadowColor": "black"
       }
     },
@@ -220,11 +220,16 @@
     },
 
     "ComboBox": {
+      "background": "slate900",
+      "foreground": "slate300",
+      "nonEditableBackground": "slate700",
+
       "ArrowButton": {
-        "background": "slate700",
-        "nonEditableBackground": "gray600"
-      },
-      "nonEditableBackground": "gray600"
+        "background": "slate900",
+        "iconColor": "slate400",
+        "disabledIconColor": "slate800",
+        "nonEditableBackground": "slate700"
+      }
     },
 
     "ComboPopup.border": "1,1,1,1,#43454A",
@@ -256,10 +261,17 @@
 
     "FileColor": {
       "Yellow": "yellow900",
-      "Green": "darkgreen900"
+      "Green": "darkgreen600",
+      "Gray": "gray600",
+      "Blue": "blue600",
+      "Orange": "orange600",
+      "Rose": "rose600",
+      "Violet": "purple600"
     },
 
-    "TextField.background": "slate700",
+    "TextField": {
+      "background": "slate900"
+    },
 
     "Component": {
       "borderColor": "gray500",
@@ -428,7 +440,7 @@
 
     "ComplexPopup.Header.background": "gray600",
 
-  
+
 
     "CompletionPopup": {
       "foreground": "gray50",
@@ -527,17 +539,17 @@
     "Tag.background": "gray600",
 
     "ToolTip":{
-      "background": "blue700",
-      "borderColor": "slate800",
-      "foreground": "slate100",
-      "infoForeground": "slate100",
-      "shortcutForeground": "slate100",
+      "background": "black",
+      "borderColor": "slate700",
+      "foreground": "slate300",
+      "infoForeground": "slate300",
+      "shortcutForeground": "slate300",
 
       "Actions": {
-        "background": "gray800"
+        "background": "black"
       },
       "Learning": {
-        "background": "gray800"
+        "background": "black"
       }
     },
 
@@ -562,17 +574,21 @@
     },
 
     "ToolWindow": {
+      "background": "black",
       "Header": {
-        "inactiveBackground": "slate900",
+        "background": "slate900",
+        "inactiveBackground": "slate800",
         "font.size.offset": 0
       },
       "HeaderTab": {
-        "hoverInactiveBackground": "gray600",
+        "underlinedTabBackground": "black",
+        "underlineColor": "blue600",
+        "hoverInactiveBackground": "slate900",
         "leftRightInsets": "0,12,0,12"
       },
       "Button": {
         "DragAndDrop" : {
-          "stripeBackground" : "slate700",
+          "stripeBackground" : "slate900",
           "buttonDropBackground": "#35538F99"
         }
       }
@@ -623,13 +639,15 @@
       }
     },
 
-    "EditorPane.splitBorder": "gray600",
+    "EditorPane.splitBorder": "slate600",
 
-    "WelcomeScreen.Details.background": "gray800",
+    "WelcomeScreen.Details.background": "gray900",
 
     "TipOfTheDay": {
       "Image.borderColor": "gray600"
     },
+
+
 
     "Lesson": {
       "shortcutBackground": "gray500"
@@ -693,7 +711,7 @@
     "RunWidget" : {
       "foreground": "white",
       "background": "darkgreen500",
-      "runningBackground": "blue600",
+      "runningBackground": "slate700",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028",
       "separatorColor": "#FFFFFF30"
@@ -705,11 +723,11 @@
       "Checkbox.Background.Default.Dark": "slate700",
       "Checkbox.Border.Default.Dark": "slate500",
       "Checkbox.Foreground.Selected.Dark": "white",
-      "Checkbox.Background.Selected.Dark": "darkgreen500",
-      "Checkbox.Border.Selected.Dark": "darkgreen500",
+      "Checkbox.Background.Selected.Dark": "blue500",
+      "Checkbox.Border.Selected.Dark": "blue500",
       "Checkbox.Focus.Thin.Default.Dark": "#101012",
       "Checkbox.Focus.Thin.Selected.Dark": "#101012",
-      "Checkbox.Focus.Wide.Dark": "darkgreen500",
+      "Checkbox.Focus.Wide.Dark": "blue500",
       "Checkbox.Foreground.Disabled.Dark": "slate500",
       "Checkbox.Border.Disabled.Dark": "slate600",
       "Checkbox.Background.Disabled.Dark": "slate700"
