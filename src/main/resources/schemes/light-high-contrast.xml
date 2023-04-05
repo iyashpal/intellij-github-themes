@@ -1,15 +1,8 @@
-<scheme name="GitHub - Light High Contrast" parent_scheme="Default" version="1">
-  <metaInfo>
-    <property name="created">2023-01-09T23:24:00</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.1</property>
-    <property name="modified">2023-01-09T23:24:00</property>
-    <property name="originalScheme">_@user_Default</property>
-  </metaInfo>
+<scheme name="GitHub - Light-high-contrast" parent_scheme="Default" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="FFFFFF" />
-    <option name="LINE_NUMBERS_COLOR" value="24292F" />
-    <option name="SELECTION_BACKGROUND" value="24292F" />
+    <option name="LINE_NUMBERS_COLOR" value="0E1116" />
+    <option name="SELECTION_BACKGROUND" value="0E1116" />
     <option name="CARET_ROW_COLOR" value="E7ECF0" />
     <option name="WHITESPACES" value="ACB6C0" />
     <option name="CARET_COLOR" value="0349B4" />
@@ -40,7 +33,7 @@
     </option>
     <option name="BUILDOUT.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="BUILDOUT.SECTION_NAME">
@@ -66,7 +59,7 @@
     </option>
     <option name="COFFEESCRIPT.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="COFFEESCRIPT.BOOLEAN">
@@ -90,7 +83,7 @@
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.DOT" />
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXISTENTIAL">
@@ -120,7 +113,7 @@
     </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
@@ -161,7 +154,7 @@
     </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="COFFEESCRIPT.LOCAL_VARIABLE">
@@ -225,7 +218,7 @@
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -286,7 +279,7 @@
     </option>
     <option name="CSS.COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
@@ -357,13 +350,13 @@
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -380,7 +373,7 @@
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -401,7 +394,7 @@
     </option>
     <option name="Clojure Line comment">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="Clojure Literal">
@@ -426,7 +419,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="TEXT" name="DEFAULT_BRACES" />
@@ -444,23 +437,23 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="TEXT" name="DEFAULT_DOT" />
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -512,7 +505,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -563,7 +556,7 @@
     <option baseAttributes="TEXT" name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -574,7 +567,7 @@
     </option>
     <option name="DJANGO_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="DJANGO_FILTER">
@@ -649,7 +642,7 @@
     </option>
     <option name="GHERKIN_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="GHERKIN_KEYWORD">
@@ -659,7 +652,7 @@
     </option>
     <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="GHERKIN_PYSTRING">
@@ -675,7 +668,7 @@
     <option baseAttributes="GHERKIN_TEXT" name="GHERKIN_TABLE_CELL" />
     <option name="GHERKIN_TABLE_HEADER_CELL">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="GHERKIN_TABLE_PIPE">
@@ -691,7 +684,7 @@
     <option baseAttributes="TEXT" name="GHERKIN_TEXT" />
     <option name="GO_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="GO_BUILTIN_CONSTANT">
@@ -732,7 +725,7 @@
     </option>
     <option name="GO_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="GO_LOCAL_CONSTANT">
@@ -802,7 +795,7 @@
     </option>
     <option name="HAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="HAML_TEXT" name="HAML_FILTER" />
@@ -848,12 +841,12 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -902,7 +895,7 @@
     </option>
     <option name="IVAR">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="JADE_FILE_PATH">
@@ -927,7 +920,7 @@
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="TEXT" name="JAVA_BRACES" />
@@ -935,7 +928,7 @@
     <option baseAttributes="TEXT" name="JAVA_COMMA" />
     <option name="JAVA_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -964,7 +957,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
@@ -986,7 +979,7 @@
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1028,7 +1021,7 @@
     </option>
     <option name="LESS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option baseAttributes="TEXT" name="LOCAL_VARIABLE_ATTRIBUTES" />
@@ -1051,7 +1044,7 @@
     <option baseAttributes="TEXT" name="OC.BADCHARACTER" />
     <option name="OC.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="OC.DOT" name="OC.BRACES" />
@@ -1070,12 +1063,12 @@
     <option baseAttributes="TEXT" name="OC.DOT" />
     <option name="OC.EXTERN_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="OC.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="OC.KEYWORD">
@@ -1085,12 +1078,12 @@
     </option>
     <option name="OC.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="OC.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="OC.MESSAGE_ARGUMENT">
@@ -1111,13 +1104,13 @@
     <option baseAttributes="OC.DOT" name="OC.OPERATION_SIGN" />
     <option name="OC.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option baseAttributes="OC.DOT" name="OC.PARENTHS" />
     <option name="OC.PROPERTY">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="OC.SELFSUPERTHIS">
@@ -1164,7 +1157,7 @@
     </option>
     <option name="PUPPET_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="DEFAULT_BRACES" name="PUPPET_BRACES" />
@@ -1178,7 +1171,7 @@
     <option baseAttributes="DEFAULT_DOT" name="PUPPET_DOT" />
     <option name="PUPPET_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="PUPPET_KEYWORD">
@@ -1244,7 +1237,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option baseAttributes="DEFAULT_DOT" name="PY.DOT" />
@@ -1261,7 +1254,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -1288,7 +1281,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -1328,7 +1321,7 @@
     </option>
     <option name="REST.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="REST.REF.NAME">
@@ -1343,7 +1336,7 @@
     </option>
     <option name="RHTML_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
@@ -1378,7 +1371,7 @@
     <option baseAttributes="DEFAULT_COMMA" name="RUBY_COMMA" />
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
@@ -1393,13 +1386,13 @@
     </option>
     <option name="RUBY_CVAR">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option baseAttributes="DEFAULT_DOT" name="RUBY_DOT" />
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
@@ -1409,7 +1402,7 @@
     </option>
     <option name="RUBY_GVAR">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="RUBY_HASH_ASSOC">
@@ -1440,7 +1433,7 @@
     <option baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" name="RUBY_INVALID_ESCAPE_SEQUENCE" />
     <option name="RUBY_IVAR">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
       </value>
     </option>
     <option name="RUBY_KEYWORD">
@@ -1512,7 +1505,7 @@
     </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="SASS_DEFAULT">
@@ -1604,7 +1597,7 @@
     </option>
     <option name="SLIM_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="SLIM_DOCTYPE_KWD">
@@ -1651,34 +1644,34 @@
       <value>
         <option name="BACKGROUND" value="FFCCCC" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="24292F" />
+        <option name="EFFECT_COLOR" value="0E1116" />
       </value>
     </option>
     <option name="SPY-JS.FUNCTION_SCOPE">
       <value>
         <option name="BACKGROUND" value="FFFFF0" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="24292F" />
+        <option name="EFFECT_COLOR" value="0E1116" />
       </value>
     </option>
     <option name="SPY-JS.PATH_LEVEL_ONE">
       <value>
         <option name="BACKGROUND" value="E2FFE2" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="24292F" />
+        <option name="EFFECT_COLOR" value="0E1116" />
       </value>
     </option>
     <option name="SPY-JS.PATH_LEVEL_TWO">
       <value>
         <option name="EFFECT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="24292F" />
+        <option name="EFFECT_COLOR" value="0E1116" />
       </value>
     </option>
     <option name="SPY-JS.PROGRAM_SCOPE">
       <value>
         <option name="BACKGROUND" value="FFFFFF" />
         <option name="EFFECT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="24292F" />
+        <option name="EFFECT_COLOR" value="0E1116" />
       </value>
     </option>
     <option baseAttributes="TEXT" name="SPY-JS.VALUE_HINT" />
@@ -1700,7 +1693,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="24292F" />
+        <option name="FOREGROUND" value="0E1116" />
         <option name="BACKGROUND" value="FFFFFF" />
       </value>
     </option>
@@ -1731,7 +1724,7 @@
       <value>
         <option name="BACKGROUND" value="F6EBBC" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="24292F" />
+        <option name="EFFECT_COLOR" value="0E1116" />
         <option name="ERROR_STRIPE_COLOR" value="FFFF00" />
       </value>
     </option>
@@ -1758,7 +1751,7 @@
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="023B95" />
+        <option name="FOREGROUND" value="A0111F" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
@@ -1779,7 +1772,7 @@
     </option>
     <option name="YAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="67707A" />
+        <option name="FOREGROUND" value="66707B" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">

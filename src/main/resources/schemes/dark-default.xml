@@ -1,11 +1,4 @@
-<scheme name="GitHub - Dark Default" parent_scheme="Default" version="1">
-  <metaInfo>
-    <property name="created">2023-01-09T23:24:00</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.1</property>
-    <property name="modified">2023-01-09T23:24:00</property>
-    <property name="originalScheme">_@user_Default</property>
-  </metaInfo>
+<scheme name="GitHub - Dark-default" parent_scheme="Darcula" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="0D1117" />
     <option name="INDENT_GUIDE" value="484F58" />
@@ -14,87 +7,9 @@
     <option name="CARET_COLOR" value="58A6FF" />
     <option name="LINE_NUMBERS_COLOR" value="C9D1D9" />
     <option name="SELECTED_INDENT_GUIDE" value="484F58" />
-    <option name="GUTTER_BACKGROUND" value="0f172a" />
-    <!-- General > Popups and Hints -->
-    <option name="LOOKUP_COLOR" value="" />
-    <option name="INFORMATION_HINT" value="" />
-    <option name="DOCUMENTATION_COLOR" value="" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="" />
-    <!-- VCS > Editor Gutter -->
-    <option name="BORDER_LINES_COLOR" value="" />
-    <option name="CHANGED_LINES_POPUP" value="0d1117" />
-    <option name="ADDED_LINES_COLOR" value="498154" />
-    <option name="DELETED_LINES_COLOR" value="cc7d7d" />
-    <option name="MODIFIED_LINES_COLOR" value="f1bb41" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="cc7d7d" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="f1bb41" />
-    <!-- VCS > VCS Annotations -->
-    <option name="ANNOTATIONS_COLOR" value="0F172A" />
-    <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="365ce" />
-    
+    <option name="GUTTER_BACKGROUND" value="0D1117" />
   </colors>
   <attributes>
-    <!-- Diff & Merge > Changed Lines -->
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="88533a" />
-        <option name="ERROR_STRIPE_COLOR" value="db6d28" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="803d3b" />
-        <option name="ERROR_STRIPE_COLOR" value="f85149" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="427c48" />
-        <option name="ERROR_STRIPE_COLOR" value="3fb950" />
-      </value>
-    </option>
-    <option name="DIFF_MODIFIED">
-      <value>
-        <option name="BACKGROUND" value="735c37" />
-        <option name="ERROR_STRIPE_COLOR" value="d29922" />
-      </value>
-    </option>
-
-    <!-- Language Defaults > Inline hints > Default -->
-    <option name="INLAY_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="94a3b8" />
-        <option name="BACKGROUND" value="1f2937" />
-      </value>
-    </option>
-    <!-- Language Defaults > Inline hints > Parameters > Default -->
-    <option name="INLINE_PARAMETER_HINT">
-      <value>
-        <option name="FOREGROUND" value="94a3b8" />
-        <option name="BACKGROUND" value="1f2937" />
-      </value>
-    </option>
-    <!-- Language Defaults > Inline hints > Parameters > Current -->
-    <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="94a3b8" />
-        <option name="BACKGROUND" value="1f2937" />
-      </value>
-    </option>
-    <!-- Language Defaults > Inline hints > Parameters > Highlighted -->
-    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
-      <value>
-        <option name="FOREGROUND" value="94a3b8" />
-        <option name="BACKGROUND" value="1f2937" />
-      </value>
-    </option>
-    <!-- Console Colors > Terminal > Command to run using IDE -->
-    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
-      <value>
-        <option name="BACKGROUND" value="25334F" />
-      </value>
-    </option>
-
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6E3B3B" />
@@ -167,7 +82,7 @@
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.DOT" />
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXISTENTIAL">
@@ -457,7 +372,7 @@
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -537,7 +452,7 @@
     <option baseAttributes="TEXT" name="DEFAULT_DOT" />
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -640,7 +555,7 @@
     <option baseAttributes="TEXT" name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -930,7 +845,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1063,7 +978,7 @@
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1255,7 +1170,7 @@
     <option baseAttributes="DEFAULT_DOT" name="PUPPET_DOT" />
     <option name="PUPPET_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="PUPPET_KEYWORD">
@@ -1365,7 +1280,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -1476,7 +1391,7 @@
     <option baseAttributes="DEFAULT_DOT" name="RUBY_DOT" />
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
@@ -1835,7 +1750,7 @@
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="79C0FF" />
+        <option name="FOREGROUND" value="FF7B72" />
       </value>
     </option>
     <option name="XML_PROLOGUE">

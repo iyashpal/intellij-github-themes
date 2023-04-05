@@ -1,11 +1,4 @@
-<scheme name="GitHub - Light Default" parent_scheme="Default" version="1">
-  <metaInfo>
-    <property name="created">2023-01-09T23:24:00</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2022.3.1</property>
-    <property name="modified">2023-01-09T23:24:00</property>
-    <property name="originalScheme">_@user_Default</property>
-  </metaInfo>
+<scheme name="GitHub - Light-default" parent_scheme="Default" version="1">
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="FFFFFF" />
     <option name="INDENT_GUIDE" value="AFB8C1" />
@@ -89,7 +82,7 @@
     <option baseAttributes="DEFAULT_DOT" name="COFFEESCRIPT.DOT" />
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="COFFEESCRIPT.EXISTENTIAL">
@@ -379,7 +372,7 @@
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -459,7 +452,7 @@
     <option baseAttributes="TEXT" name="DEFAULT_DOT" />
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -562,7 +555,7 @@
     <option baseAttributes="TEXT" name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
@@ -852,7 +845,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -985,7 +978,7 @@
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -1177,7 +1170,7 @@
     <option baseAttributes="DEFAULT_DOT" name="PUPPET_DOT" />
     <option name="PUPPET_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="PUPPET_KEYWORD">
@@ -1287,7 +1280,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="REST.BOLD">
@@ -1398,7 +1391,7 @@
     <option baseAttributes="DEFAULT_DOT" name="RUBY_DOT" />
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="RUBY_EXPR_IN_STRING">
@@ -1757,7 +1750,7 @@
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="0550AE" />
+        <option name="FOREGROUND" value="CF222E" />
       </value>
     </option>
     <option name="XML_PROLOGUE">

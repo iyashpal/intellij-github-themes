@@ -2,8 +2,10 @@
 
 # GitHub Themes Changelog
 
+## [0.0.4]
+- Minor color fixes
 ## [0.0.3]
-- Editor UI updated for `Github - Dark` and `Github - Dark Default` themes. 
+- IDE UI updated for all `Dark` themes. 
 
 ## [0.0.2]
 
