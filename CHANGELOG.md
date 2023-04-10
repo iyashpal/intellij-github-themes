@@ -1,7 +1,8 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
 # GitHub Themes Changelog
-
+## [0.0.5]
+- Checkbox background fix for `Dark Default` theme.
 ## [0.0.4]
 - Minor color fixes
 ## [0.0.3]

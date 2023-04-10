@@ -181,7 +181,7 @@
       }
     },
     "CheckBox": {
-      "background": "GrayH",
+      "background": "defaultBackgroundColor",
       "foreground": "GrayB",
       "disabledText": "GrayD"
     },
