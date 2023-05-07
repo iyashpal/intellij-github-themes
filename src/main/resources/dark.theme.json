@@ -95,13 +95,16 @@
     "CoralG": "#ac3220",
     "CoralH": "#872012",
     "CoralI": "#640d04",
-    "CoralJ": "#460701"
+    "CoralJ": "#460701",
+
+    "defaultBorderColor": "#0d1117",
+    "defaultBackgroundColor": "#21262d"
   },
   "ui": {
     "*" : {
       "foreground": "GrayB",
-      "background":  "GrayH",
-      "borderColor": "GrayF",
+      "background":  "defaultBackgroundColor",
+      "borderColor": "defaultBorderColor",
       "hoverBackground": "GrayG",
       "selectionBackground": "GrayG",
       "selectionForeground": "White",
@@ -111,10 +114,10 @@
       "disabledText": "GrayC",
       "disabledForeground": "GrayC",
       "inactiveForeground": "GrayC",
-      "inactiveBackground": "GrayG",
+      "inactiveBackground": "GrayH",
       "disabledBackground": "GrayG",
       "disabledBorderColor": "GrayG",
-      "separatorColor": "GrayF",
+      "separatorColor": "defaultBackgroundColor",
       "separatorForeground": "GrayD"
     },
 
@@ -154,7 +157,7 @@
       }
     },
     "Borders": {
-      "color": "GrayG"
+      "color": "defaultBorderColor"
     },
     "Breakpoint": {
       "iconHoverAlpha": 0.35
@@ -271,7 +274,7 @@
     "DefaultTabs": {
       "background": "GrayH",
       "hoverBackground": "GrayG",
-      "borderColor": "GrayF",
+      "borderColor": "defaultBorderColor",
       "underlineColor": "BlueF",
       "underlineHeight": "",
       "underlinedTabBackground": "GrayG",
@@ -310,18 +313,20 @@
         "background": "GrayH"
       },
       "Toolbar": {
-        "borderColor": "GrayF"
+        "borderColor": "defaultBorderColor"
       }
     },
     "EditorPane": {
-      "splitBorder": "GrayF"
+      "splitBorder": "defaultBorderColor"
     },
     "EditorTabs": {
+      "background": "defaultBackgroundColor",
       "hoverBackground": "GrayG",
       "inactiveColoredFileBackground": "GrayG",
       "underlineColor": "BlueG",
+      "underlinedTabBackground": "GrayH",
       "inactiveUnderlineColor": "GrayF",
-      "borderColor": "GrayF"
+      "borderColor": "defaultBorderColor"
     },
     "FileColor": {
       "Yellow": "YellowF",
@@ -347,7 +352,7 @@
     },
     "GotItTooltip": {
       "background": "GrayG",
-      "borderColor": "GrayF",
+      "borderColor": "defaultBorderColor",
       "shortcutForeground": "GrayB",
       "linkForeground": "GrayB"
     },
@@ -356,7 +361,7 @@
       "lineSeparatorColor": ""
     },
     "HelpTooltip": {
-      "borderColor": "GrayF"
+      "borderColor": "defaultBorderColor"
     },
     "IconBadge": {
       "borderWidth": "",
@@ -369,10 +374,10 @@
       "dotY": ""
     },
     "InformationHint": {
-      "borderColor": "GrayF"
+      "borderColor": "defaultBorderColor"
     },
     "InplaceRefactoringPopup": {
-      "borderColor": "GrayF"
+      "borderColor": "defaultBorderColor"
     },
     "Label": {
       "errorForeground": "RedF"
@@ -407,14 +412,14 @@
     },
     "Menu": {
       "separatorColor": "GrayF",
-      "borderColor": "GrayF",
+      "borderColor": "defaultBackgroundColor",
       "borderInsets": "6,1,6,1",
       "Selection": {
         "innerInsets": "0,6,0,6"
       }
     },
     "MenuBar": {
-      "borderColor": "GrayF"
+      "borderColor": "defaultBackgroundColor"
     },
     "MenuItem": {
       "acceleratorForeground": ""
@@ -424,16 +429,16 @@
       "usedBackground": "#21262d80"
     },
     "NavBar": {
-      "borderColor": "GrayF"
+      "borderColor": "defaultBorderColor"
     },
     "Notification": {
       "background": "GrayG",
-      "borderColor": "GrayG",
+      "borderColor": "defaultBorderColor",
       "linkForeground": "GrayB",
       "borderInsets": "4,4,4,0",
       "Button": {
         "background": "GrayF",
-        "borderColor": "GrayF",
+        "borderColor": "defaultBorderColor",
         "foreground": "White"
       },
       "MoreButton": {
@@ -475,7 +480,7 @@
     "ParameterInfo": {},
     "Plugins": {
       "background": "GrayH",
-      "borderColor": "GrayF",
+      "borderColor": "defaultBorderColor",
       "hoverBackground": "GrayG",
       "tagBackground": "GrayG",
       "tagForeground": "White",
@@ -508,12 +513,12 @@
     "Popup": {
       "borderWidth": 1,
       "paintBorder": true,
-      "borderColor": "GrayF",
+      "borderColor": "defaultBorderColor",
       "inactiveBorderColor": "GrayF",
       "Advertiser": {
         "foreground": "GrayB",
         "background": "GrayH",
-        "borderColor": "GrayF"
+        "borderColor": "defaultBorderColor"
       },
       "Header": {
         "activeBackground": "GrayH",
@@ -579,7 +584,7 @@
     "SpeedSearch": {
       "foreground": "GrayB",
       "background": "GrayH",
-      "borderColor": "GrayF",
+      "borderColor": "defaultBorderColor",
       "errorForeground": "RedG"
     },
     "ScrollBar": {},
@@ -616,7 +621,7 @@
     },
     "TipOfTheDay": {
       "Image": {
-        "borderColor": "GrayF"
+        "borderColor": "defaultBorderColor"
       }
     },
     "TitlePane": {
@@ -645,7 +650,7 @@
     },
     "ToolTip": {
       "background": "GrayH",
-      "borderColor": "GrayF",
+      "borderColor": "defaultBorderColor",
       "foreground": "GrayC",
       "infoForeground": "GrayC",
       "shortcutForeground": "GrayC",
@@ -689,18 +694,18 @@
       "FileHistory.Commit.selectedBranchBackground": "GrayI",
       "MarkerPopup": {
         "borderInsets": "6,8,6,10",
-        "borderColor": "GrayH"
+        "borderColor": "defaultBorderColor"
       }
     },
     "WelcomeScreen": {
       "background": "GrayI",
-      "borderColor": "GrayG",
+      "borderColor": "defaultBorderColor",
       "footerBackground": "GrayH",
       "footerForeground": "White",
       "headerBackground": "GrayI",
       "headerForeground": "White",
       "separatorColor": "GrayH",
-      "groupIconBorderColor": "GrayH",
+      "groupIconBorderColor": "defaultBorderColor",
       "Projects": {
         "actions": {
           "background": "GrayH",
@@ -718,7 +723,7 @@
   "icons": {
     "ColorPalette": {
       "Tree.iconColor": "BlueG",
-      "Checkbox.Border.Default.Dark": "GrayE",
+      "Checkbox.Border.Default.Dark": "defaultBorderColor",
       "Checkbox.Border.Selected.Dark": "GrayF",
       "Checkbox.Border.Disabled.Dark": "GrayG",
       "Checkbox.Background.Default.Dark": "GrayH",

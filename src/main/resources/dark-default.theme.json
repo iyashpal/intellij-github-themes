@@ -320,10 +320,12 @@
       "splitBorder": "defaultBorderColor"
     },
     "EditorTabs": {
-      "hoverBackground": "GrayG",
+      "background": "Black",
+      "hoverBackground": "GrayI",
       "inactiveColoredFileBackground": "GrayG",
       "underlineColor": "BlueG",
-      "inactiveUnderlineColor": "GrayH",
+      "underlinedTabBackground": "GrayI",
+      "inactiveUnderlineColor": "BlueE",
       "borderColor": "defaultBorderColor"
     },
     "FileColor": {
@@ -345,7 +347,7 @@
       "inactiveForeground": ""
     },
     "Group": {
-      "separatorColor": "",
+      "separatorColor": "defaultBackgroundColor",
       "disabledSeparatorColor": ""
     },
     "GotItTooltip": {
@@ -406,10 +408,10 @@
       "Icon": {},
       "Dropdown": {},
       "Button": {},
-      "separatorColor": "defaultBorderColor"
+      "separatorColor": "defaultBackgroundColor"
     },
     "Menu": {
-      "separatorColor": "defaultBorderColor",
+      "separatorColor": "defaultBackgroundColor",
       "borderColor": "defaultBorderColor",
       "borderInsets": "6,1,6,1",
       "Selection": {
@@ -504,7 +506,7 @@
       },
       "Tab": {
         "hoverBackground": "GrayH",
-        "selectedBackground": "defaultBackgroundColor",
+        "selectedBackground": "Black",
         "selectedForeground": "White"
       }
     },
@@ -519,7 +521,7 @@
         "borderColor": "defaultBorderColor"
       },
       "Header": {
-        "activeBackground": "defaultBackgroundColor",
+        "activeBackground": "Black",
         "inactiveBackground": "GrayG",
         "inactiveForeground": "GrayC"
       }
@@ -611,7 +613,7 @@
     },
     "TableHeader": {
       "bottomSeparatorColor": "defaultBorderColor",
-      "separatorColor": "defaultBorderColor"
+      "separatorColor": "defaultBackgroundColor"
     },
     "TextField": {
       "selectionForeground": "White",
@@ -632,13 +634,13 @@
       "horizontalToolbarInsets": "4,7,4,7"
     },
     "ToolWindow": {
-      "background": "defaultBackgroundColor",
+      "background": "Black",
       "Header": {
-        "background": "defaultBackgroundColor",
-        "inactiveBackground": "defaultBackgroundColor"
+        "background": "Black",
+        "inactiveBackground": "Black"
       },
       "HeaderTab": {
-        "underlinedTabBackground": "defaultBackgroundColor",
+        "underlinedTabBackground": "Black",
         "underlineColor": "BlueG",
         "hoverInactiveBackground": "defaultBackgroundColor"
       },
@@ -702,7 +704,7 @@
       "footerForeground": "White",
       "headerBackground": "GrayI",
       "headerForeground": "White",
-      "separatorColor": "defaultBorderColor",
+      "separatorColor": "defaultBackgroundColor",
       "groupIconBorderColor": "GrayH",
       "Projects": {
         "actions": {

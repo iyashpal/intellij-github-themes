@@ -1,6 +1,8 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
 # GitHub Themes Changelog
+## [0.0.6]
+- `Dark Default` theme Editor Tabs and ToolWindow colors updated.
 ## [0.0.5]
 - Checkbox background fix for `Dark Default` theme.
 ## [0.0.4]
