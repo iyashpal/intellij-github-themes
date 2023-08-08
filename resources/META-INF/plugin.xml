@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.iyashpal.intellijgithubthemes</id>
-    <version>0.0.8</version>
+    <version>0.0.9</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -62,8 +62,6 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
-        <![CDATA[
-            Please refer to <a href="https://github.com/iyashpal/intellij-github-themes/blob/main/CHANGELOG.md">CHANGELOG.md</a> for details.
-        ]]>
+        <![CDATA[ ]]>
     </change-notes>
 </idea-plugin>
