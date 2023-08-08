@@ -2,6 +2,9 @@
 
 # GitHub Themes Changelog
 
+## [0.0.8]
+- High Contrast Themes Removed.
+
 ## [0.0.7]
 - Light themes UI updated.
 - Deprecated properties removed from theme config.
@@ -16,7 +19,7 @@
 - Minor color fixes
 
 ## [0.0.3]
-- IDE UI updated for all `Dark` themes. 
+- IDE UI updated for all `Dark` themes.
 
 ## [0.0.2]
 
@@ -35,7 +38,3 @@
 - GitHub Light Default
 - GitHub Light Colorblind
 - GitHub Light High Contrast
-
-## [Unreleased]
-### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)

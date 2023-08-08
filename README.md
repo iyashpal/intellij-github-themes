@@ -1,6 +1,5 @@
 # GitHub Themes for IntelliJ
 
-![Build](https://github.com/iyashpal/intellij-github-themes/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/20810-github-themes.svg)](https://plugins.jetbrains.com/plugin/20810-github-themes)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/20810-github-themes.svg)](https://plugins.jetbrains.com/plugin/20810-github-themes)
 ---
