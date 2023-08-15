@@ -109,5 +109,78 @@
     "rose900": "#881337"
   },
   "ui": {
+    "*": {
+      "selectionBackground": "blue200",
+      "selectionForeground": "gray900"
+    },
+    "MainToolbar": {
+      "background": "#27282E",
+      "foreground": "#EBECF0",
+      "inactiveBackground": "#27282E",
+      "separatorColor": "#27282E",
+      "Icon": {
+        "background": "#3D3E43",
+        "hoverBackground": "#ffffff20",
+        "pressedBackground": "#ffffff60",
+        "insets": "5,5,5,5"
+      },
+      "Dropdown": {
+        "foreground": "#EBECF0",
+        "background": "#3D3E43",
+        "hoverBackground": "#ffffff20",
+        "transparentHoverBackground": "#FFFFFF1A",
+        "pressedBackground": "#3D3E43",
+        "maxWidth": 350
+      }
+    },
+    "MainMenu": {
+      "background": "#27282E",
+      "foreground": "#EBECF0",
+      "selectionForeground": "#ffffff",
+      "selectionBackground": "#ffffff20",
+      "transparentSelectionBackground": "#FFFFFF1A"
+    },
+    "MenuItem": {
+      "foreground": "black",
+      "acceleratorForeground": "neutral500",
+      "acceleratorSelectionForeground": "blue500"
+    },
+    "Popup": {
+      "background": "#ffffff",
+      "borderColor": "windowsPopupBorder",
+      "Advertiser": {
+        "foreground": "black",
+        "background": "gray400",
+        "borderColor": "gray400"
+      },
+      "Header": {
+        "activeBackground": "blue200",
+        "inactiveBackground": "gray400",
+        "inactiveForeground": "white"
+      },
+      "Toolbar.background": "#27282E"
+    },
+    "RunWidget": {
+      "foreground": "#EBECF0",
+      "runningBackground": "darkgreen400",
+      "hoverBackground": "#00000019",
+      "pressedBackground": "#00000028"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Tree.iconColor": "gray700",
+      "Checkbox.Border.Default.Dark": "gray700",
+      "Checkbox.Border.Selected.Dark": "darkgreen400",
+      "Checkbox.Border.Disabled.Dark": "gray700",
+      "Checkbox.Background.Default.Dark": "darkgreen400",
+      "Checkbox.Background.Selected.Dark": "darkgreen400",
+      "Checkbox.Background.Disabled.Dark": "gray600",
+      "Checkbox.Foreground.Selected.Dark": "gray200",
+      "Checkbox.Foreground.Disabled.Dark": "gray600",
+      "Checkbox.Focus.Wide.Dark": "gray800",
+      "Checkbox.Focus.Thin.Default.Dark": "gray800",
+      "Checkbox.Focus.Thin.Selected.Dark": "gray800"
+    }
   }
 }
