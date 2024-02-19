@@ -894,7 +894,11 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
-        <option baseAttributes="XML_TAG" name="HTML_TAG" />
+        <option name="HTML_TAG">
+          <value>
+            <option name="BACKGROUND" value="ffffff" />
+          </value>
+        </option>
         <option name="HTML_TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="0550AE" />
