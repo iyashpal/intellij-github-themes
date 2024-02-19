@@ -1,13 +1,58 @@
 <scheme name="Github - Light Colorblind" version="142" parent_scheme="Darcula">
     <colors>
-        <option name="CONSOLE_BACKGROUND_KEY" value="FFFFFF" />
-        <option name="INDENT_GUIDE" value="AFB8C1" />
-        <option name="CARET_ROW_COLOR" value="F4F6F8" />
-        <option name="WHITESPACES" value="AFB8C1" />
-        <option name="CARET_COLOR" value="0969DA" />
-        <option name="LINE_NUMBERS_COLOR" value="24292F" />
-        <option name="SELECTED_INDENT_GUIDE" value="AFB8C1" />
-        <option name="GUTTER_BACKGROUND" value="FFFFFF" />
+        <option name="ADDED_LINES_COLOR" value="46de5" />
+        <option name="ANNOTATIONS_COLOR" value="4d4d4d" />
+        <option name="BORDER_LINES_COLOR" value="ffffff" />
+        <option name="CARET_COLOR" value="969da" />
+        <option name="CARET_ROW_COLOR" value="f4f6f8" />
+        <option name="CHANGED_LINES_POPUP" value="679efd" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="ffffff" />
+        <option name="DELETED_LINES_COLOR" value="ff8502" />
+        <option name="DOCUMENTATION_COLOR" value="f6f8fa" />
+        <option name="FILESTATUS_ADDED" value="c3e887" />
+        <option name="FILESTATUS_COPIED" value="a7700" />
+        <option name="FILESTATUS_DELETED" value="f77669" />
+        <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="773895" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7d5020" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff0000" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0000" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff0000" />
+        <option name="FILESTATUS_MERGED" value="7503dc" />
+        <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+        <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+        <option name="FILESTATUS_RENAMED" value="7c7c" />
+        <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+        <option name="FILESTATUS_SWITCHED" value="f77669" />
+        <option name="FILESTATUS_UNKNOWN" value="f77669" />
+        <option name="FILESTATUS_addedOutside" value="eaa00" />
+        <option name="FILESTATUS_changelistConflict" value="ff0000" />
+        <option name="FILESTATUS_modifiedOutside" value="47e4" />
+        <option name="GUTTER_BACKGROUND" value="ffffff" />
+        <option name="HINT_BORDER" value="d0d7de" />
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="46de5" />
+        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="ff8502" />
+        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="4d2d00" />
+        <option name="INDENT_GUIDE" value="afb8c1" />
+        <option name="INFORMATION_HINT" value="f6f8fa" />
+        <option name="LINE_NUMBERS_COLOR" value="24292f" />
+        <option name="LOOKUP_COLOR" value="f6f8fa" />
+        <option name="MODIFIED_LINES_COLOR" value="4d2d00" />
+        <option name="PREVIEW_BACKGROUND" value="ffffff" />
+        <option name="PROMOTION_PANE" value="f6f8fa" />
+        <option name="RECENT_LOCATIONS_SELECTION" value="f6f8fa" />
+        <option name="SELECTED_INDENT_GUIDE" value="afb8c1" />
+        <option name="SELECTION_BACKGROUND" value="54aeff40" />
+        <option name="TOOLTIP" value="ffffff" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="ddffc2" />
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="98e5ff" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="8699ff" />
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="ff93ff" />
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="fc5bfc" />
+        <option name="WHITESPACES" value="afb8c1" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffffff" />
     </colors>
     <attributes>
         <option name="BAD_CHARACTER">

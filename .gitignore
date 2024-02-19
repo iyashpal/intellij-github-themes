@@ -1,3 +1,4 @@
 build
 examples
 *.jar
+.DS_store

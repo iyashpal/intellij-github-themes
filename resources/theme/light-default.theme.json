@@ -27,8 +27,6 @@
     },
 
     "Button": {
-      "startBackground": "#ebecf0",
-      "endBackground": "#ebecf0",
       "foreground": "#24292f",
       "focusedBorderColor": "borderColor",
       "default": {
