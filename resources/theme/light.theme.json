@@ -41,6 +41,13 @@
       }
     },
 
+    "SegmentedButton": {
+      "selectedStartBorderColor": "borderColor",
+      "selectedEndBorderColor": "borderColor",
+      "selectedButtonColor": "borderColor",
+      "focusedSelectedButtonColor": "borderColor"
+    },
+
     "SidePanel.background": "#f6f8fa",
 
     "MainToolbar.background": "#ffffff",

@@ -4,40 +4,54 @@
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
   "editorScheme": "/theme/scheme/light-default.xml",
   "colors": {
-    "black": "#0d1117",
     "white": "#ffffff",
-    "borderColor": "#d0d7de",
+    "black": "#0d1117",
     "foreground": "#1f2328",
-    "disabledForeground": "#1f232860",
     "background": "#ffffff",
+    "focusColor": "#eae9e9",
+    "borderColor": "#d0d7de",
+    "focusedBorderColor": "#c1c9d0",
+    "disabledForeground": "#1f232860",
     "selectionForeground": "#2f363d",
-    "selectionBackground": "#ebf0f4"
+    "selectionBackground": "#ebf0f4",
+    "defaultStartBackground": "#24c44d",
+    "defaultEndBackground": "#10b43c",
+    "defaultStartBorderColor": "#24c44d60",
+    "defaultEndBorderColor": "#10b43c60"
   },
   "ui": {
     "*": {
       "foreground": "foreground",
       "background": "background",
+
+      "focusColor": "focusColor",
+
       "borderColor": "borderColor",
-      "focusColor": "#ffffff00",
+      "focusedBorderColor": "focusedBorderColor",
 
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
+
       "selectionInactiveForeground": "selectionForeground",
       "selectionInactiveBackground": "selectionBackground"
     },
 
     "Button": {
-      "foreground": "#24292f",
-      "focusedBorderColor": "borderColor",
       "default": {
-        "foreground": "#ffffff",
-        "startBackground": "#24c44d",
-        "endBackground": "#21963f",
-        "startBorderColor": "#24c44d60",
-        "endBorderColor": "#21963f60",
-        "focusColor": "#138934",
-        "focusedBorderColor": "#13893460"
+        "foreground": "white",
+        "focusedBorderColor": "white",
+        "startBorderColor": "defaultStartBorderColor",
+        "endBorderColor": "defaultEndBorderColor",
+        "startBackground": "defaultStartBackground",
+        "endBackground": "defaultEndBackground"
       }
+    },
+
+    "SegmentedButton": {
+      "selectedStartBorderColor": "borderColor",
+      "selectedEndBorderColor": "borderColor",
+      "selectedButtonColor": "borderColor",
+      "focusedSelectedButtonColor": "borderColor"
     },
 
     "SidePanel.background": "#f6f8fa",
