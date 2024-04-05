@@ -998,7 +998,6 @@
         <option name="HTML_ATTRIBUTE_VALUE">
             <value>
                 <option name="FOREGROUND" value="32f62"/>
-                <option name="FONT_TYPE" value="1"/>
             </value>
         </option>
         <option name="HTML_COMMENT">
