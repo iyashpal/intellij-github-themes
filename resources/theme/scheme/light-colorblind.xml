@@ -1,4 +1,4 @@
-<scheme name="Github - Light Colorblind" version="142" parent_scheme="Darcula">
+<scheme name="Github - Light Colorblind" version="142" parent_scheme="Default">
     <colors>
         <option name="ADDED_LINES_COLOR" value="46de5" />
         <option name="ANNOTATIONS_COLOR" value="4d4d4d" />
