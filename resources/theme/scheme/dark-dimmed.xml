@@ -442,6 +442,9 @@
                 <option name="FOREGROUND" value="768390" />
             </value>
         </option>
+        <option name="DEFAULT_TAG">
+            <value />
+        </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="768390" />
@@ -851,7 +854,7 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
-        <option baseAttributes="XML_TAG" name="HTML_TAG" />
+        <option name="XML_TAG" baseAttributes="DEFAULT_TAG"/>
         <option name="HTML_TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="8DDB8C" />
@@ -1355,7 +1358,7 @@
                 <option name="FOREGROUND" value="F47067" />
             </value>
         </option>
-        <option baseAttributes="XML_TAG" name="RHTML_SCRIPTING_BACKGROUND_ID" />
+        <option name="XML_TAG" baseAttributes="DEFAULT_TAG"/>
         <option name="RHTML_SCRIPTLET_END_ID">
             <value>
                 <option name="FOREGROUND" value="F47067" />

@@ -31,7 +31,7 @@
       "foreground": "#24292f",
       "focusedBorderColor": "borderColor",
       "default": {
-        "foreground": "#ffffff",
+        "foreground": "#24292f",
         "startBackground": "#24c44d",
         "endBackground": "#21963f",
         "startBorderColor": "#24c44d60",

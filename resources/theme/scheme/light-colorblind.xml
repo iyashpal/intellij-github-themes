@@ -484,6 +484,9 @@
                 <option name="FOREGROUND" value="6E7781" />
             </value>
         </option>
+        <option name="DEFAULT_TAG">
+            <value />
+        </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
                 <option name="FOREGROUND" value="6E7781" />
@@ -892,11 +895,6 @@
                 <option name="FOREGROUND" value="B35900" />
                 <option name="FONT_TYPE" value="1" />
             </value>
-        </option>
-        <option name="HTML_TAG">
-          <value>
-            <option name="BACKGROUND" value="ffffff" />
-          </value>
         </option>
         <option name="HTML_TAG_NAME">
             <value>
