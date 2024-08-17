@@ -2,6 +2,7 @@
   "name": "Github - Dark Colorblind",
   "dark": true,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
+  "parentTheme": "ExperimentalDark",
   "editorScheme": "/theme/scheme/dark-colorblind.xml",
   "colors": {
     "Black": "#010409",

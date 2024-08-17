@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.iyashpal.intellijgithubthemes</id>
-    <version>0.0.20</version>
+    <version>0.0.21</version>
 
     <!-- Public plugin name should be written in Title Case. Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
     <name>Github Themes</name>
@@ -17,14 +17,14 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="github-dark" path="/theme/dark.theme.json"/>
-        <themeProvider id="github-dark-dimmed" path="/theme/dark-dimmed.theme.json"/>
-        <themeProvider id="github-dark-default" path="/theme/dark-default.theme.json"/>
-        <themeProvider id="github-dark-colorblind" path="/theme/dark-colorblind.theme.json"/>
+        <themeProvider id="github-dark" path="/theme/dark.theme.json" targetUi="new"/>
+        <themeProvider id="github-dark-dimmed" path="/theme/dark-dimmed.theme.json" targetUi="new"/>
+        <themeProvider id="github-dark-default" path="/theme/dark-default.theme.json" targetUi="new"/>
+        <themeProvider id="github-dark-colorblind" path="/theme/dark-colorblind.theme.json" targetUi="new"/>
 
-        <themeProvider id="github-light" path="/theme/light.theme.json"/>
-        <themeProvider id="github-light-default" path="/theme/light-default.theme.json"/>
-        <themeProvider id="github-light-colorblind" path="/theme/light-colorblind.theme.json"/>
+        <themeProvider id="github-light" path="/theme/light.theme.json" targetUi="new"/>
+        <themeProvider id="github-light-default" path="/theme/light-default.theme.json" targetUi="new"/>
+        <themeProvider id="github-light-colorblind" path="/theme/light-colorblind.theme.json" targetUi="new"/>
     </extensions>
 
 

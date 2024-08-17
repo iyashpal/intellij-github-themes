@@ -2,6 +2,7 @@
   "name": "Github - Light",
   "dark": false,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
+  "parentTheme": "IntelliJ",
   "editorScheme": "/theme/scheme/light.xml",
 
   "colors": {

@@ -2,6 +2,7 @@
   "name": "Github - Dark Default",
   "dark": true,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
+  "parentTheme": "ExperimentalDark",
   "editorScheme": "/theme/scheme/dark-default.xml",
   "colors": {
     "Black": "#010409",
