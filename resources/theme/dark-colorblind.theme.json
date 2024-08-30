@@ -721,18 +721,18 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "BlueG",
-      "Checkbox.Border.Default.Dark": "GrayE",
-      "Checkbox.Border.Selected.Dark": "GrayH",
-      "Checkbox.Border.Disabled.Dark": "GrayG",
-      "Checkbox.Background.Default.Dark": "GrayH",
-      "Checkbox.Background.Selected.Dark": "GrayI",
-      "Checkbox.Background.Disabled.Dark": "GrayG",
-      "Checkbox.Foreground.Selected.Dark": "GrayB",
-      "Checkbox.Foreground.Disabled.Dark": "GrayD",
-      "Checkbox.Focus.Wide.Dark": "GrayH",
-      "Checkbox.Focus.Thin.Default.Dark": "GrayH",
-      "Checkbox.Focus.Thin.Selected.Dark": "GrayI"
+      "Tree.iconColor": "#4b5563",
+      "Checkbox.Border.Default.Dark": "#9ca3af",
+      "Checkbox.Border.Selected.Dark": "#374151",
+      "Checkbox.Border.Disabled.Dark": "#4b5563",
+      "Checkbox.Background.Default.Dark": "#374151",
+      "Checkbox.Background.Selected.Dark": "#1f2937",
+      "Checkbox.Background.Disabled.Dark": "#4b5563",
+      "Checkbox.Foreground.Selected.Dark": "#f3f4f6",
+      "Checkbox.Foreground.Disabled.Dark": "#d1d5db",
+      "Checkbox.Focus.Wide.Dark": "#374151",
+      "Checkbox.Focus.Thin.Default.Dark": "#374151",
+      "Checkbox.Focus.Thin.Selected.Dark": "#1f2937"
     }
   }
 }

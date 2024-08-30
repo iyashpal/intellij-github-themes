@@ -83,18 +83,20 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#2f363d",
-      "Checkbox.Border.Default": "#71747c",
-      "Checkbox.Border.Disabled": "#d8dbe0",
-      "Checkbox.Border.Selected": "#54565e",
-      "Checkbox.Background.Default": "#ffffff",
-      "Checkbox.Background.Selected": "#f6f8fa",
-      "Checkbox.Background.Disabled": "#eaeaea",
-      "Checkbox.Foreground.Selected": "#1f2328",
-      "Checkbox.Foreground.Disabled": "#d1d5da",
-      "Checkbox.Focus.Wide": "#d1d5da",
-      "Checkbox.Focus.Thin.Default": "#d1d5da",
-      "Checkbox.Focus.Thin.Selected": "#d1d5da"
+      "ColorPalette": {
+        "Tree.iconColor": "#334155",
+        "Checkbox.Border.Default": "#475569",
+        "Checkbox.Border.Disabled": "#cbd5e1",
+        "Checkbox.Border.Selected": "#22c55e",
+        "Checkbox.Background.Default": "#ffffff",
+        "Checkbox.Background.Selected": "#22c55e",
+        "Checkbox.Background.Disabled": "#e2e8f0",
+        "Checkbox.Foreground.Selected": "#ffffff",
+        "Checkbox.Foreground.Disabled": "#94a3b8",
+        "Checkbox.Focus.Wide": "#6ee7b7",
+        "Checkbox.Focus.Thin.Default": "#22c55e",
+        "Checkbox.Focus.Thin.Selected": "#6ee7b7"
+      }
     }
   }
 }
