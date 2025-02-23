@@ -38,13 +38,22 @@
     },
 
     "Button": {
+      "foreground": "#ffffff",
+      "loadingForeground": "#ffffff",
+      "startBackground": "#5c6570",
+      "endBackground": "#5c6570",
+      "startBorderColor": "#5c6570",
+      "endBorderColor": "#5c6570",
+      "focusedBorderColor": "#647182",
       "default": {
-        "foreground": "white",
-        "focusedBorderColor": "white",
-        "startBorderColor": "defaultStartBorderColor",
-        "endBorderColor": "defaultEndBorderColor",
-        "startBackground": "defaultStartBackground",
-        "endBackground": "defaultEndBackground"
+        "foreground": "#ffffff",
+        "loadingForeground": "#ffffff",
+        "startBackground": "#31bf46",
+        "endBackground": "#31bf46",
+        "startBorderColor": "#31bf46",
+        "endBorderColor": "#31bf46",
+        "focusedBorderColor": "#2c8141",
+        "focusColor": "#30a147"
       }
     },
 
@@ -87,6 +96,13 @@
       "runningBackground": "#24c44d",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028"
+    },
+
+    "ToolWindow": {
+      "Button": {
+        "selectedBackground": "#1E883D",
+        "hoverBackground": "#1B8138"
+      }
     }
   },
   "icons": {

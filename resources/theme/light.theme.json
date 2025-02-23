@@ -29,16 +29,22 @@
     },
 
     "Button": {
-      "foreground": "#24292f",
-      "focusedBorderColor": "borderColor",
+      "foreground": "#ffffff",
+      "loadingForeground": "#ffffff",
+      "startBackground": "#5c6570",
+      "endBackground": "#5c6570",
+      "startBorderColor": "#5c6570",
+      "endBorderColor": "#5c6570",
+      "focusedBorderColor": "#647182",
       "default": {
-        "foreground": "#24292f",
-        "startBackground": "#24c44d",
-        "endBackground": "#21963f",
-        "startBorderColor": "#24c44d60",
-        "endBorderColor": "#21963f60",
-        "focusColor": "#138934",
-        "focusedBorderColor": "#13893460"
+        "foreground": "#ffffff",
+        "loadingForeground": "#ffffff",
+        "startBackground": "#31bf46",
+        "endBackground": "#31bf46",
+        "startBorderColor": "#31bf46",
+        "endBorderColor": "#31bf46",
+        "focusedBorderColor": "#2c8141",
+        "focusColor": "#30a147"
       }
     },
 
@@ -73,6 +79,13 @@
     "TextField.selectionForeground": "#ffffff",
     "TextArea.selectionBackground": "#3b82f6",
     "TextArea.selectionForeground": "#ffffff",
+
+    "ToolWindow": {
+      "Button": {
+        "selectedBackground": "#1E883D",
+        "hoverBackground": "#1B8138"
+      }
+    },
 
     "RunWidget": {
       "foreground": "foreground",

@@ -27,16 +27,22 @@
     },
 
     "Button": {
-      "foreground": "#24292f",
-      "focusedBorderColor": "borderColor",
+      "foreground": "#ffffff",
+      "loadingForeground": "#ffffff",
+      "startBackground": "#c8d1da",
+      "endBackground": "#c8d1da",
+      "startBorderColor": "#c8d1da",
+      "endBorderColor": "#c8d1da",
+      "focusedBorderColor": "#d1d9e0",
       "default": {
         "foreground": "#ffffff",
-        "startBackground": "#218bff",
-        "endBackground": "#0676f1",
-        "startBorderColor": "#218bff60",
-        "endBorderColor": "#0676f160",
-        "focusColor": "#0676f1",
-        "focusedBorderColor": "#0676f160"
+        "loadingForeground": "#ffffff",
+        "startBackground": "#47afff",
+        "endBackground": "#47afff",
+        "startBorderColor": "#47afff",
+        "endBorderColor": "#47afff",
+        "focusedBorderColor": "#006edb",
+        "focusColor": "#0f8fff"
       }
     },
 
@@ -52,10 +58,18 @@
 
     "Popup.background": "#f6f8fa",
 
-    "ToolWindow.background": "#ffffff",
-    "ToolWindow.Header.background": "#f6f8fa",
-    "ToolWindow.Header.inactiveBackground": "#f6f8fa",
-    "ToolWindow.Header.borderColor": "borderColor",
+    "ToolWindow": {
+      "background": "#ffffff",
+      "Header": {
+        "background": "#f6f8fa",
+        "inactiveBackground": "#f6f8fa",
+        "borderColor": "borderColor"
+      },
+      "Button": {
+        "selectedBackground": "#0968DA",
+        "hoverBackground": "#0763D1"
+      }
+    },
 
     "TitlePane.background": "#f6f8fa",
 

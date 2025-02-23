@@ -164,21 +164,22 @@
       "iconHoverAlpha": 0.35
     },
     "Button": {
-      "startBackground": "GrayG",
-      "endBackground": "GrayG",
-      "startBorderColor": "GrayG",
-      "endBorderColor": "GrayG",
-      "focusedBorderColor": "GrayI",
-      "shadowColor": "GrayI",
+      "foreground": "#25292e",
+      "loadingForeground": "#25292e",
+      "startBackground": "#e6eaef",
+      "endBackground": "#e6eaef",
+      "startBorderColor": "#d1d9e0",
+      "endBorderColor": "#d1d9e0",
+      "focusedBorderColor": "#d1d9e0",
       "default": {
-        "foreground": "White",
-        "startBackground": "GreenE",
-        "endBackground": "GreenE",
-        "startBorderColor": "GreenE",
-        "endBorderColor": "GreenE",
-        "focusedBorderColor": "GreenF",
-        "focusColor": "GreenD",
-        "shadowColor": "GreenH"
+        "foreground": "#ffffff",
+        "loadingForeground": "#ffffff",
+        "startBackground": "#1F6FEB",
+        "endBackground": "#1F6FEB",
+        "startBorderColor": "#1f232826",
+        "endBorderColor": "#1f232826",
+        "focusedBorderColor": "#1f232826",
+        "focusColor": "#1f232826"
       }
     },
     "CheckBox": {
@@ -644,6 +645,8 @@
         "hoverInactiveBackground": "defaultBackgroundColor"
       },
       "Button": {
+        "selectedBackground": "#1F6FEB",
+        "hoverBackground": "#297AEF",
         "DragAndDrop": {}
       }
     },
