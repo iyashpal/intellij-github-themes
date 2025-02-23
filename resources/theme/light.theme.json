@@ -82,8 +82,9 @@
 
     "ToolWindow": {
       "Button": {
-        "selectedBackground": "#1E883D",
-        "hoverBackground": "#1B8138"
+        "selectedForeground": "#25292e",
+        "selectedBackground": "#e6eaef",
+        "hoverBackground": "#eff2f5"
       }
     },
 

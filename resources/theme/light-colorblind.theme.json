@@ -66,8 +66,9 @@
         "borderColor": "borderColor"
       },
       "Button": {
-        "selectedBackground": "#0968DA",
-        "hoverBackground": "#0763D1"
+        "selectedForeground": "#25292e",
+        "selectedBackground": "#e6eaef",
+        "hoverBackground": "#eff2f5"
       }
     },
 

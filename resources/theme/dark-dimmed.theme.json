@@ -642,8 +642,9 @@
         "hoverInactiveBackground": "GrayG"
       },
       "Button": {
-        "selectedBackground": "#1f883d",
-        "hoverBackground": "#1c8139",
+        "selectedForeground": "#F0F6FC",
+        "selectedBackground": "#2A313C",
+        "hoverBackground": "#262C36",
         "DragAndDrop": {}
       }
     },
