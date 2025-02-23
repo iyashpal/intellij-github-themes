@@ -27,22 +27,22 @@
     },
 
     "Button": {
-      "foreground": "#ffffff",
-      "loadingForeground": "#ffffff",
-      "startBackground": "#c8d1da",
-      "endBackground": "#c8d1da",
-      "startBorderColor": "#c8d1da",
-      "endBorderColor": "#c8d1da",
+      "foreground": "#25292e",
+      "loadingForeground": "#25292e",
+      "startBackground": "#e6eaef",
+      "endBackground": "#e6eaef",
+      "startBorderColor": "#d1d9e0",
+      "endBorderColor": "#d1d9e0",
       "focusedBorderColor": "#d1d9e0",
       "default": {
         "foreground": "#ffffff",
         "loadingForeground": "#ffffff",
-        "startBackground": "#47afff",
-        "endBackground": "#47afff",
-        "startBorderColor": "#47afff",
-        "endBorderColor": "#47afff",
-        "focusedBorderColor": "#006edb",
-        "focusColor": "#0f8fff"
+        "startBackground": "#0968DA",
+        "endBackground": "#0968DA",
+        "startBorderColor": "#D0D9E0",
+        "endBorderColor": "#D0D9E0",
+        "focusedBorderColor": "#D0D9E0",
+        "focusColor": "#D0D9E0"
       }
     },
 

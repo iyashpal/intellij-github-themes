@@ -161,13 +161,13 @@
       "iconHoverAlpha": 0.35
     },
     "Button": {
-      "foreground": "#25292e",
-      "loadingForeground": "#25292e",
-      "startBackground": "#e6eaef",
-      "endBackground": "#e6eaef",
-      "startBorderColor": "#d1d9e0",
-      "endBorderColor": "#d1d9e0",
-      "focusedBorderColor": "#d1d9e0",
+      "foreground": "#F0F6FC",
+      "loadingForeground": "#F0F6FC",
+      "startBackground": "#2A313C",
+      "endBackground": "#2A313C",
+      "startBorderColor": "#3D444D",
+      "endBorderColor": "#3D444D",
+      "focusedBorderColor": "#3D444D",
       "default": {
         "foreground": "#ffffff",
         "loadingForeground": "#ffffff",
