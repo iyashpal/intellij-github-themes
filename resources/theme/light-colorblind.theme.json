@@ -29,11 +29,11 @@
     "Button": {
       "foreground": "#25292e",
       "loadingForeground": "#25292e",
-      "startBackground": "#e6eaef",
-      "endBackground": "#e6eaef",
+      "startBackground": "#ffffff",
+      "endBackground": "#ffffff",
       "startBorderColor": "#d1d9e0",
       "endBorderColor": "#d1d9e0",
-      "focusedBorderColor": "#d1d9e0",
+      "focusedBorderColor": "#D0D9E0",
       "default": {
         "foreground": "#ffffff",
         "loadingForeground": "#ffffff",
