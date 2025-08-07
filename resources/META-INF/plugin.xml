@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.github.iyashpal.intellijgithubthemes</id>
-    <version>0.0.27</version>
+    <version>0.0.28</version>
 
     <!-- Public plugin name should be written in Title Case. Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
     <name>Github Themes</name>
@@ -11,7 +11,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="iyashpal.dev@gmail.com" url="https://github.com/iyashpal">Yash Pal</vendor>
 
-    <idea-version since-build="222" until-build="251.*"/>
+    <idea-version since-build="222" until-build="252.*"/>
 
     <!-- Product and plugin compatibility requirements. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
