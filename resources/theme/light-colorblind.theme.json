@@ -19,13 +19,11 @@
       "background": "background",
       "borderColor": "borderColor",
       "focusColor": "#ffffff00",
-
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
       "selectionInactiveForeground": "selectionForeground",
       "selectionInactiveBackground": "selectionBackground"
     },
-
     "Button": {
       "foreground": "#25292e",
       "loadingForeground": "#25292e",
@@ -45,19 +43,26 @@
         "focusColor": "#D0D9E0"
       }
     },
-
     "SidePanel.background": "#f6f8fa",
-
     "MainToolbar.background": "#ffffff",
     "MainToolbar.separatorColor": "#d0d7de",
-
     "ToolBar.background": "white",
-
     "ScrollBar.background": "#ffffff00",
     "ScrollPane.background": "#ffffff00",
-
     "Popup.background": "#f6f8fa",
-
+    "Plugins": {
+      "Button": {
+        "installForeground": "#ffffff",
+        "installBackground": "#065FC8",
+        "installBorderColor": "#D0D9E0",
+        "installFillBackground": "#065FC8",
+        "installFillForeground": "#ffffff",
+        "installFocusedBackground": "#065FC8",
+        "updateBackground": "#065FC8",
+        "updateBorderColor": "#D0D9E0",
+        "updateForeground": "#ffffff"
+      }
+    },
     "ToolWindow": {
       "background": "#ffffff",
       "Header": {
@@ -71,15 +76,12 @@
         "hoverBackground": "#eff2f5"
       }
     },
-
     "TitlePane.background": "#f6f8fa",
-
     "TextPane.background": "#ffffff",
     "TextField.selectionBackground": "#3b82f6",
     "TextField.selectionForeground": "#ffffff",
     "TextArea.selectionBackground": "#3b82f6",
     "TextArea.selectionForeground": "#ffffff",
-
     "RunWidget": {
       "foreground": "foreground",
       "runningBackground": "#218bff",

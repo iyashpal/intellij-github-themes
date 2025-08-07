@@ -4,7 +4,6 @@
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
   "parentTheme": "IntelliJ",
   "editorScheme": "/theme/scheme/light.xml",
-
   "colors": {
     "black": "#0d1117",
     "white": "#ffffff",
@@ -21,13 +20,11 @@
       "background": "background",
       "borderColor": "borderColor",
       "focusColor": "#ffffff00",
-
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
       "selectionInactiveForeground": "selectionForeground",
       "selectionInactiveBackground": "selectionBackground"
     },
-
     "Button": {
       "foreground": "#25292e",
       "loadingForeground": "#25292e",
@@ -47,39 +44,29 @@
         "focusColor": "#1f232826"
       }
     },
-
     "SegmentedButton": {
       "selectedStartBorderColor": "borderColor",
       "selectedEndBorderColor": "borderColor",
       "selectedButtonColor": "borderColor",
       "focusedSelectedButtonColor": "borderColor"
     },
-
     "SidePanel.background": "#f6f8fa",
-
     "MainToolbar.background": "#ffffff",
     "MainToolbar.separatorColor": "#d0d7de",
-
     "ToolBar.background": "white",
-
     "ScrollBar.background": "#ffffff00",
     "ScrollPane.background": "#ffffff00",
-
     "Popup.background": "#f6f8fa",
-
     "ToolWindow.background": "#ffffff",
     "ToolWindow.Header.background": "#f6f8fa",
     "ToolWindow.Header.inactiveBackground": "#f6f8fa",
     "ToolWindow.Header.borderColor": "borderColor",
-
     "TitlePane.background": "#f6f8fa",
-
     "TextPane.background": "#ffffff",
     "TextField.selectionBackground": "#3b82f6",
     "TextField.selectionForeground": "#ffffff",
     "TextArea.selectionBackground": "#3b82f6",
     "TextArea.selectionForeground": "#ffffff",
-
     "ToolWindow": {
       "Button": {
         "selectedForeground": "#25292e",
@@ -87,12 +74,24 @@
         "hoverBackground": "#eff2f5"
       }
     },
-
     "RunWidget": {
       "foreground": "foreground",
       "runningBackground": "#24c44d",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028"
+    },
+    "Plugins": {
+      "Button": {
+        "installForeground": "#ffffff",
+        "installBackground": "#1A7935",
+        "installBorderColor": "#1f232826",
+        "installFillBackground": "#1A7935",
+        "installFillForeground": "#ffffff",
+        "installFocusedBackground": "#1A7935",
+        "updateBackground": "#1A7935",
+        "updateBorderColor": "#1f232826",
+        "updateForeground": "#ffffff"
+      }
     }
   },
   "icons": {

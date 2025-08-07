@@ -476,15 +476,15 @@
       "eapTagBackground": "GrayG",
       "disabledForeground": "GrayE",
       "Button": {
-        "installForeground": "White",
-        "installBackground": "BlueG",
-        "installBorderColor": "BlueG",
-        "installFillBackground": "BlueG",
-        "installFillForeground": "White",
-        "installFocusedBackground": "BlueG",
-        "updateBackground": "GreenF",
-        "updateBorderColor": "GreenF",
-        "updateForeground": "White"
+        "installForeground": "#ffffff",
+        "installBackground": "#197935",
+        "installBorderColor": "#1f232826",
+        "installFillBackground": "#197935",
+        "installFillForeground": "#ffffff",
+        "installFocusedBackground": "#197935",
+        "updateBackground": "#197935",
+        "updateBorderColor": "#1f232826",
+        "updateForeground": "#ffffff"
       },
       "SearchField": {
         "background": "GrayH"

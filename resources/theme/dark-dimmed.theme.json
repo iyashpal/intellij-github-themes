@@ -99,9 +99,9 @@
     "CoralJ": "#460701"
   },
   "ui": {
-    "*" : {
+    "*": {
       "foreground": "GrayB",
-      "background":  "GrayH",
+      "background": "GrayH",
       "borderColor": "GrayF",
       "hoverBackground": "GrayG",
       "selectionBackground": "GrayG",
@@ -118,14 +118,12 @@
       "separatorColor": "GrayF",
       "separatorForeground": "GrayD"
     },
-
     "ActionButton": {
       "hoverBackground": "GrayI",
       "hoverBorderColor": "GrayJ",
       "pressedBackground": "GrayI",
       "pressedBorderColor": "GrayJ"
     },
-
     "Banner": {
       "infoBackground": "",
       "infoBorderColor": "",
@@ -484,15 +482,15 @@
       "eapTagBackground": "GrayG",
       "disabledForeground": "GrayE",
       "Button": {
-        "installForeground": "White",
-        "installBackground": "BlueG",
-        "installBorderColor": "BlueG",
-        "installFillBackground": "BlueG",
-        "installFillForeground": "White",
-        "installFocusedBackground": "BlueG",
-        "updateBackground": "GreenF",
-        "updateBorderColor": "GreenF",
-        "updateForeground": "White"
+        "installForeground": "#ffffff",
+        "installBackground": "#197935",
+        "installBorderColor": "#1f232826",
+        "installFillBackground": "#197935",
+        "installFillForeground": "#ffffff",
+        "installFocusedBackground": "#197935",
+        "updateBackground": "#197935",
+        "updateBorderColor": "#1f232826",
+        "updateForeground": "#ffffff"
       },
       "SearchField": {
         "background": "GrayH"
