@@ -63,6 +63,10 @@
         "updateForeground": "#ffffff"
       }
     },
+    "ProgressBar.trackColor": "#D0D9E0",
+    "ProgressBar.indeterminateEndColor": "#356fef",
+    "ProgressBar.indeterminateStartColor": "#005ac9",
+    "ProgressBar.progressColor": "#0075ff",
     "ToolWindow": {
       "background": "#ffffff",
       "Header": {

@@ -531,9 +531,9 @@
       }
     },
     "ProgressBar.trackColor": "#ffffff20",
-    "ProgressBar.indeterminateEndColor": "#ffffff70",
-    "ProgressBar.indeterminateStartColor": "#ffffff60",
-    "ProgressBar.progressColor": "#1A7935",
+    "ProgressBar.indeterminateEndColor": "#00b229",
+    "ProgressBar.indeterminateStartColor": "#004d15",
+    "ProgressBar.progressColor": "#00b229",
     "ProblemsView": {
       "projectAnalysisButtonBackground": "GrayI"
     },

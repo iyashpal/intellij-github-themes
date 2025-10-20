@@ -520,12 +520,10 @@
         "innerInsets": "0,6,0,6"
       }
     },
-    "ProgressBar": {
-      "progressColor": "BlueF",
-      "indeterminateStartColor": "GrayD",
-      "indeterminateEndColor": "GrayG",
-      "trackColor": "GrayJ"
-    },
+    "ProgressBar.trackColor": "#ffffff20",
+    "ProgressBar.indeterminateEndColor": "#00b229",
+    "ProgressBar.indeterminateStartColor": "#004d15",
+    "ProgressBar.progressColor": "#00b229",
     "ProblemsView": {
       "projectAnalysisButtonBackground": "GrayI"
     },

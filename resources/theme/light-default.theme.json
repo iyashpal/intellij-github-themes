@@ -32,6 +32,10 @@
       "selectionInactiveForeground": "selectionForeground",
       "selectionInactiveBackground": "selectionBackground"
     },
+    "ProgressBar.trackColor": "#D0D9E0",
+    "ProgressBar.indeterminateEndColor": "#029b2e",
+    "ProgressBar.indeterminateStartColor": "#07ce32",
+    "ProgressBar.progressColor": "#029b2e",
     "Button": {
       "foreground": "#25292e",
       "loadingForeground": "#25292e",
