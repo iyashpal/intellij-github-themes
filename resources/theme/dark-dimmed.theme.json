@@ -721,7 +721,10 @@
   "icons": {
     "ColorPalette": {
       "Tree.iconColor": "#4b5563",
-      "Checkbox.Border.Default.Dark": "#9ca3af",
+      "Checkbox.Border.Default": "",
+      "Checkbox.Border.Disabled": "",
+      "Checkbox.Border.Selected": "",
+      "Checkbox.Border.Default.Dark": "#444c56",
       "Checkbox.Border.Selected.Dark": "#374151",
       "Checkbox.Border.Disabled.Dark": "#4b5563",
       "Checkbox.Background.Default.Dark": "#374151",
