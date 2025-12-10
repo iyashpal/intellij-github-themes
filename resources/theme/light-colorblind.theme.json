@@ -1,111 +1,140 @@
 {
-  "name": "Github - Light Colorblind",
+  "name": "Github - Green",
   "dark": false,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
   "parentTheme": "Islands Light",
-  "editorScheme": "/theme/scheme/light-colorblind.xml",
+  "editorScheme": "/theme/scheme/light.xml",
   "colors": {
     "black": "#0d1117",
     "white": "#ffffff",
+    "primaryColor": "#0075ff",
     "borderColor": "#d0d7de",
-    "foreground": "#24292f",
-    "background": "#ffffff",
-    "selectionForeground": "#24292f",
-    "selectionBackground": "#afb8c133"
+    "foreground": "#1f2328",
+    "disabledForeground": "#1f232860",
+    "background": "#e2e8f0",
+    "selectionForeground": "#2f363d",
+    "selectionBackground": "#ebf0f4"
   },
   "ui": {
-    "*": {
-      "foreground": "foreground",
-      "background": "background",
-      "focusColor": "#ffffff00",
-      "selectionBackground": "selectionBackground",
-      "selectionForeground": "selectionForeground",
-      "selectionInactiveForeground": "selectionForeground",
-      "selectionInactiveBackground": "selectionBackground"
-    },
-    "Button": {
-      "foreground": "#25292e",
-      "loadingForeground": "#25292e",
-      "startBackground": "#ffffff",
-      "endBackground": "#ffffff",
-      "startBorderColor": "#d1d9e0",
-      "endBorderColor": "#d1d9e0",
-      "focusedBorderColor": "#D0D9E0",
-      "default": {
-        "foreground": "#ffffff",
-        "loadingForeground": "#ffffff",
-        "startBackground": "#0968DA",
-        "endBackground": "#0968DA",
-        "startBorderColor": "#D0D9E0",
-        "endBorderColor": "#D0D9E0",
-        "focusedBorderColor": "#D0D9E0",
-        "focusColor": "#D0D9E0"
-      }
-    },
-    "SidePanel.background": "#f6f8fa",
-    "MainToolbar.background": "#ffffff",
-    "MainToolbar.separatorColor": "#d0d7de",
-    "ToolBar.background": "white",
-    "ScrollBar.background": "#ffffff00",
-    "ScrollPane.background": "#ffffff00",
-    "Popup.background": "#f6f8fa",
-    "Plugins": {
-      "Button": {
-        "installForeground": "#ffffff",
-        "installBackground": "#065FC8",
-        "installBorderColor": "#D0D9E0",
-        "installFillBackground": "#065FC8",
-        "installFillForeground": "#ffffff",
-        "installFocusedBackground": "#065FC8",
-        "updateBackground": "#065FC8",
-        "updateBorderColor": "#D0D9E0",
-        "updateForeground": "#ffffff"
-      }
-    },
+    "ActionButton.hoverBackground": "selectionBackground",
+    "ActionButton.hoverBorderColor": "borderColor",
+    "ActionButton.pressedBackground": "borderColor",
+    "ActionButton.pressedBorderColor": "borderColor",
+    "ActionButton.separatorColor": "borderColor",
+
+    "Banner.infoBackground": "#dbeafe",
+    "Banner.infoBorderColor": "#2b7fff",
+    "Banner.successBackground": "#d0fae5",
+    "Banner.successBorderColor": "#00bc7d",
+    "Banner.warningBackground": "#fef3c6",
+    "Banner.warningBorderColor": "#fd9a00",
+    "Banner.errorBackground": "#ffe2e2",
+    "Banner.errorBorderColor": "#fb2c36",
+
+    "Notification.ToolWindow.informativeBackground": "#dbeafe",
+    "Notification.ToolWindow.informativeBorderColor": "#bedbff",
+    "Notification.ToolWindow.informativeForeground": "#2b7fff",
+    "Notification.ToolWindow.warningBackground": "#fef3c6",
+    "Notification.ToolWindow.warningBorderColor": "#fee685",
+    "Notification.ToolWindow.warningForeground": "#fd9a00",
+    "Notification.ToolWindow.errorBackground": "#ffe2e2",
+    "Notification.ToolWindow.errorBorderColor": "#ffa2a2",
+    "Notification.ToolWindow.errorForeground": "#fb2c36",
+    "Notification.errorForeground": "#fb2c36",
+    "Notification.errorBorderColor": "#ffa2a2",
+    "Notification.errorBackground": "#ffe2e2",
+
+    "Button.foreground": "#25292e",
+    "Button.loadingForeground": "#25292e",
+    "Button.startBackground": "white",
+    "Button.endBackground": "white",
+    "Button.startBorderColor": "#d1d9e0",
+    "Button.endBorderColor": "#d1d9e0",
+    "Button.focusedBorderColor": "#d1d9e0",
+    "Button.default.foreground": "white",
+    "Button.default.loadingForeground": "white",
+    "Button.default.startBackground": "primaryColor",
+    "Button.default.endBackground": "primaryColor",
+    "Button.default.startBorderColor": "#1f232826",
+    "Button.default.endBorderColor": "#1f232826",
+    "Button.default.focusedBorderColor": "#1f232826",
+    "Button.default.focusColor": "#1f232826",
+
     "ProgressBar.trackColor": "#D0D9E0",
     "ProgressBar.indeterminateEndColor": "#356fef",
     "ProgressBar.indeterminateStartColor": "#005ac9",
     "ProgressBar.progressColor": "#0075ff",
-    "ToolWindow": {
-      "background": "#ffffff",
-      "Header": {
-        "background": "#f6f8fa",
-        "inactiveBackground": "#f6f8fa",
-        "borderColor": "borderColor"
-      },
-      "Button": {
-        "selectedForeground": "#25292e",
-        "selectedBackground": "#e6eaef",
-        "hoverBackground": "#eff2f5"
-      }
-    },
-    "TitlePane.background": "#f6f8fa",
-    "TextPane.background": "#ffffff",
-    "TextField.selectionBackground": "#3b82f6",
-    "TextField.selectionForeground": "#ffffff",
-    "TextArea.selectionBackground": "#3b82f6",
-    "TextArea.selectionForeground": "#ffffff",
+
+    "SegmentedButton.selectedStartBorderColor": "borderColor",
+    "SegmentedButton.selectedEndBorderColor": "borderColor",
+    "SegmentedButton.selectedButtonColor": "borderColor",
+    "SegmentedButton.focusedSelectedButtonColor": "borderColor",
+
+    "SidePanel.background": "white",
+
+    "Tree.selectionBackground": "#D0D9E040",
+    "Tree.selectionInactiveBackground": "#D0D9E080",
+
+
+    "MainToolbar.background": "white",
+    "MainToolbar.separatorColor": "borderColor",
+
+    "ToolWindow.background": "white",
+    "ToolWindow.Header.background": "white",
+    "ToolWindow.Header.inactiveBackground": "white",
+    "ToolWindow.Header.borderColor": "borderColor",
+    "ToolWindow.Button.selectedForeground": "white",
+    "ToolWindow.Button.selectedBackground": "primaryColor",
+    "ToolWindow.Button.hoverBackground": "#eff2f5",
+
+    "ToolBar.background": "white",
+    "ScrollBar.background": "#ffffff00",
+    "ScrollPane.background": "#ffffff00",
+    "Popup.background": "#f6f8fa",
+
+    "TitlePane.background": "white",
+    "TextPane.background": "white",
+    "TextField.selectionBackground": "primaryColor",
+    "TextField.selectionForeground": "white",
+    "TextArea.selectionBackground": "primaryColor",
+    "TextArea.selectionForeground": "white",
+
     "RunWidget": {
       "foreground": "foreground",
-      "runningBackground": "#218bff",
+      "runningBackground": "primaryColor",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028"
+    },
+    "Plugins": {
+      "Button": {
+        "installForeground": "white",
+        "installBackground": "primaryColor",
+        "installBorderColor": "#1f232826",
+        "installFillBackground": "primaryColor",
+        "installFillForeground": "#ffffff",
+        "installFocusedBackground": "primaryColor",
+        "updateBackground": "primaryColor",
+        "updateBorderColor": "#1f232826",
+        "updateForeground": "white"
+      }
     }
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#334155",
-      "Checkbox.Border.Default": "#475569",
-      "Checkbox.Border.Disabled": "#d8dbe0",
-      "Checkbox.Border.Selected": "#0676f1",
-      "Checkbox.Background.Default": "#ffffff",
-      "Checkbox.Background.Selected": "#0676f1",
-      "Checkbox.Background.Disabled": "#e2e8f0",
-      "Checkbox.Foreground.Selected": "#ffffff",
-      "Checkbox.Foreground.Disabled": "#94a3b8",
-      "Checkbox.Focus.Wide": "#0676f160",
-      "Checkbox.Focus.Thin.Default": "#0676f1",
-      "Checkbox.Focus.Thin.Selected": "#0676f160"
+      "ColorPalette": {
+        "Tree.iconColor": "#334155",
+        "Checkbox.Border.Default": "#475569",
+        "Checkbox.Border.Disabled": "#cbd5e1",
+        "Checkbox.Border.Selected": "primaryColor",
+        "Checkbox.Background.Default": "#ffffff",
+        "Checkbox.Background.Selected": "primaryColor",
+        "Checkbox.Background.Disabled": "#e2e8f0",
+        "Checkbox.Foreground.Selected": "#ffffff",
+        "Checkbox.Foreground.Disabled": "#94a3b8",
+        "Checkbox.Focus.Wide": "#0075ff70",
+        "Checkbox.Focus.Thin.Default": "primaryColor",
+        "Checkbox.Focus.Thin.Selected": "#0075ff70"
+      }
     }
   }
 }

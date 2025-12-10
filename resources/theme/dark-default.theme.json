@@ -125,16 +125,29 @@
       "pressedBackground": "GrayI",
       "pressedBorderColor": "defaultBackgroundColor"
     },
-    "Banner": {
-      "infoBackground": "",
-      "infoBorderColor": "",
-      "successBackground": "",
-      "successBorderColor": "",
-      "warningBackground": "",
-      "warningBorderColor": "",
-      "errorBackground": "",
-      "errorBorderColor": ""
-    },
+
+    "Banner.infoBackground": "#dbeafe",
+    "Banner.infoBorderColor": "#2b7fff",
+    "Banner.successBackground": "#d0fae5",
+    "Banner.successBorderColor": "#00bc7d",
+    "Banner.warningBackground": "#fef3c6",
+    "Banner.warningBorderColor": "#fd9a00",
+    "Banner.errorBackground": "#ffe2e2",
+    "Banner.errorBorderColor": "#fb2c36",
+
+    "Notification.ToolWindow.informativeBackground": "#dbeafe",
+    "Notification.ToolWindow.informativeBorderColor": "#bedbff",
+    "Notification.ToolWindow.informativeForeground": "#2b7fff",
+    "Notification.ToolWindow.warningBackground": "#fef3c6",
+    "Notification.ToolWindow.warningBorderColor": "#fee685",
+    "Notification.ToolWindow.warningForeground": "#fd9a00",
+    "Notification.ToolWindow.errorBackground": "#ffe2e2",
+    "Notification.ToolWindow.errorBorderColor": "#ffa2a2",
+    "Notification.ToolWindow.errorForeground": "#fb2c36",
+    "Notification.errorForeground": "#fb2c36",
+    "Notification.errorBorderColor": "#ffa2a2",
+    "Notification.errorBackground": "#ffe2e2",
+
     "BigSpinner": {
       "background": "defaultBackgroundColor"
     },
