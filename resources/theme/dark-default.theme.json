@@ -2,7 +2,7 @@
   "name": "Github - Dark Default",
   "dark": true,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
-  "parentTheme": "ExperimentalDark",
+  "parentTheme": "Islands Dark",
   "editorScheme": "/theme/scheme/dark-default.xml",
   "colors": {
     "Black": "#010409",
@@ -104,7 +104,6 @@
     "*": {
       "foreground": "GrayB",
       "background": "defaultBackgroundColor",
-      "borderColor": "defaultBorderColor",
       "hoverBackground": "GrayG",
       "selectionBackground": "GrayG",
       "selectionForeground": "White",

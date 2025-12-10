@@ -2,7 +2,7 @@
   "name": "Github - Light Colorblind",
   "dark": false,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
-  "parentTheme": "IntelliJ",
+  "parentTheme": "Islands Light",
   "editorScheme": "/theme/scheme/light-colorblind.xml",
   "colors": {
     "black": "#0d1117",
@@ -17,7 +17,6 @@
     "*": {
       "foreground": "foreground",
       "background": "background",
-      "borderColor": "borderColor",
       "focusColor": "#ffffff00",
       "selectionBackground": "selectionBackground",
       "selectionForeground": "selectionForeground",
