@@ -1,5 +1,5 @@
 {
-  "name": "Github - Light",
+  "name": "Github - Green",
   "dark": false,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
   "parentTheme": "Islands Light",
@@ -10,65 +10,61 @@
     "borderColor": "#d0d7de",
     "foreground": "#1f2328",
     "disabledForeground": "#1f232860",
-    "background": "#ffffff",
+    "background": "#e2e8f0",
     "selectionForeground": "#2f363d",
     "selectionBackground": "#ebf0f4"
   },
   "ui": {
-    "*": {
-      "foreground": "foreground",
-      "background": "background",
-      "focusColor": "#ffffff00",
-      "selectionBackground": "selectionBackground",
-      "selectionForeground": "selectionForeground",
-      "selectionInactiveForeground": "selectionForeground",
-      "selectionInactiveBackground": "selectionBackground"
-    },
-    "Button": {
-      "foreground": "#25292e",
-      "loadingForeground": "#25292e",
-      "startBackground": "#ffffff",
-      "endBackground": "#ffffff",
-      "startBorderColor": "#d1d9e0",
-      "endBorderColor": "#d1d9e0",
-      "focusedBorderColor": "#d1d9e0",
-      "default": {
-        "foreground": "#ffffff",
-        "loadingForeground": "#ffffff",
-        "startBackground": "#1E883D",
-        "endBackground": "#1E883D",
-        "startBorderColor": "#1f232826",
-        "endBorderColor": "#1f232826",
-        "focusedBorderColor": "#1f232826",
-        "focusColor": "#1f232826"
-      }
-    },
+    "Button.foreground": "#25292e",
+    "Button.loadingForeground": "#25292e",
+    "Button.startBackground": "white",
+    "Button.endBackground": "white",
+    "Button.startBorderColor": "#d1d9e0",
+    "Button.endBorderColor": "#d1d9e0",
+    "Button.focusedBorderColor": "#d1d9e0",
+    "Button.default.foreground": "white",
+    "Button.default.loadingForeground": "white",
+    "Button.default.startBackground": "#1E883D",
+    "Button.default.endBackground": "#1E883D",
+    "Button.default.startBorderColor": "#1f232826",
+    "Button.default.endBorderColor": "#1f232826",
+    "Button.default.focusedBorderColor": "#1f232826",
+    "Button.default.focusColor": "#1f232826",
+
     "ProgressBar.trackColor": "#D0D9E0",
     "ProgressBar.indeterminateEndColor": "#029b2e",
     "ProgressBar.indeterminateStartColor": "#07ce32",
     "ProgressBar.progressColor": "#029b2e",
-    "SegmentedButton": {
-      "selectedStartBorderColor": "borderColor",
-      "selectedEndBorderColor": "borderColor",
-      "selectedButtonColor": "borderColor",
-      "focusedSelectedButtonColor": "borderColor"
-    },
-    "SidePanel.background": "#f6f8fa",
-    "MainToolbar.background": "#ffffff",
-    "MainToolbar.separatorColor": "#d0d7de",
+
+    "SegmentedButton.selectedStartBorderColor": "borderColor",
+    "SegmentedButton.selectedEndBorderColor": "borderColor",
+    "SegmentedButton.selectedButtonColor": "borderColor",
+    "SegmentedButton.focusedSelectedButtonColor": "borderColor",
+
+    "SidePanel.background": "white",
+
+    "Tree.selectionBackground": "#D0D9E040",
+    "Tree.selectionInactiveBackground": "#D0D9E080",
+
+
+    "MainToolbar.background": "white",
+    "MainToolbar.separatorColor": "borderColor",
+
+    "ToolWindow.background": "white",
+    "ToolWindow.Header.background": "white",
+    "ToolWindow.Header.inactiveBackground": "white",
+    "ToolWindow.Header.borderColor": "borderColor",
+
     "ToolBar.background": "white",
     "ScrollBar.background": "#ffffff00",
     "ScrollPane.background": "#ffffff00",
     "Popup.background": "#f6f8fa",
-    "ToolWindow.background": "#ffffff",
-    "ToolWindow.Header.background": "#f6f8fa",
-    "ToolWindow.Header.inactiveBackground": "#f6f8fa",
-    "ToolWindow.Header.borderColor": "borderColor",
-    "TitlePane.background": "#f6f8fa",
+
+    "TitlePane.background": "#ffffff",
     "TextPane.background": "#ffffff",
-    "TextField.selectionBackground": "#3b82f6",
+    "TextField.selectionBackground": "#22c55e",
     "TextField.selectionForeground": "#ffffff",
-    "TextArea.selectionBackground": "#3b82f6",
+    "TextArea.selectionBackground": "#22c55e",
     "TextArea.selectionForeground": "#ffffff",
     "ToolWindow": {
       "Button": {
