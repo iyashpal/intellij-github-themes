@@ -16,12 +16,10 @@
     "selectionBackground": "#ebf0f4"
   },
   "ui": {
-
     "EditorTabs.underlinedBorderColor": "#00D492",
     "EditorTabs.underlinedTabBackground": "#EBFDF5",
     "EditorTabs.inactiveUnderlinedTabBackground": "background",
     "EditorTabs.inactiveUnderlinedTabBorderColor": "background",
-
     "ActionButton.hoverBackground": "selectionBackground",
     "ActionButton.hoverBorderColor": "borderColor",
     "ActionButton.pressedBackground": "borderColor",
@@ -73,7 +71,6 @@
     "SidePanel.background": "white",
     "Tree.selectionBackground": "#D0D9E040",
     "Tree.selectionInactiveBackground": "#D0D9E080",
-
     "ToolWindow.background": "white",
     "ToolWindow.Header.background": "white",
     "ToolWindow.Header.inactiveBackground": "white",

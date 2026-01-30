@@ -17,13 +17,11 @@
   },
   "ui": {
     "EditorTabs.underlinedTabBackground": "#EBFDF5",
-
     "ActionButton.hoverBackground": "selectionBackground",
     "ActionButton.hoverBorderColor": "borderColor",
     "ActionButton.pressedBackground": "borderColor",
     "ActionButton.pressedBorderColor": "borderColor",
     "ActionButton.separatorColor": "borderColor",
-
     "Banner.infoBackground": "#dbeafe",
     "Banner.infoBorderColor": "#2b7fff",
     "Banner.successBackground": "#d0fae5",
@@ -32,7 +30,6 @@
     "Banner.warningBorderColor": "#fd9a00",
     "Banner.errorBackground": "#ffe2e2",
     "Banner.errorBorderColor": "#fb2c36",
-
     "Notification.ToolWindow.informativeBackground": "#dbeafe",
     "Notification.ToolWindow.informativeBorderColor": "#bedbff",
     "Notification.ToolWindow.informativeForeground": "#2b7fff",
@@ -45,7 +42,6 @@
     "Notification.errorForeground": "#fb2c36",
     "Notification.errorBorderColor": "#ffa2a2",
     "Notification.errorBackground": "#ffe2e2",
-
     "Button.foreground": "#25292e",
     "Button.loadingForeground": "#25292e",
     "Button.startBackground": "white",
@@ -61,22 +57,17 @@
     "Button.default.endBorderColor": "#1f232826",
     "Button.default.focusedBorderColor": "#1f232826",
     "Button.default.focusColor": "#1f232826",
-
     "ProgressBar.trackColor": "#D0D9E0",
     "ProgressBar.indeterminateEndColor": "#029b2e",
     "ProgressBar.indeterminateStartColor": "#07ce32",
     "ProgressBar.progressColor": "#029b2e",
-
     "SegmentedButton.selectedStartBorderColor": "borderColor",
     "SegmentedButton.selectedEndBorderColor": "borderColor",
     "SegmentedButton.selectedButtonColor": "borderColor",
     "SegmentedButton.focusedSelectedButtonColor": "borderColor",
-
     "SidePanel.background": "white",
-
     "Tree.selectionBackground": "#D0D9E040",
     "Tree.selectionInactiveBackground": "#D0D9E080",
-
     "ToolWindow.background": "white",
     "ToolWindow.Header.background": "white",
     "ToolWindow.Header.inactiveBackground": "white",
@@ -84,19 +75,16 @@
     "ToolWindow.Button.selectedForeground": "white",
     "ToolWindow.Button.selectedBackground": "primaryColor",
     "ToolWindow.Button.hoverBackground": "#eff2f5",
-
     "ToolBar.background": "black",
     "ScrollBar.background": "#ffffff00",
     "ScrollPane.background": "#ffffff00",
     "Popup.background": "#f6f8fa",
-
     "TitlePane.background": "white",
     "TextPane.background": "white",
     "TextField.selectionBackground": "#22c55e",
     "TextField.selectionForeground": "white",
     "TextArea.selectionBackground": "#22c55e",
     "TextArea.selectionForeground": "white",
-
     "RunWidget": {
       "foreground": "foreground",
       "runningBackground": "primaryColor",
