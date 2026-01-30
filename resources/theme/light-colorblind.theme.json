@@ -91,25 +91,19 @@
     "TextField.selectionForeground": "white",
     "TextArea.selectionBackground": "primaryColor",
     "TextArea.selectionForeground": "white",
-    "RunWidget": {
-      "foreground": "foreground",
-      "runningBackground": "primaryColor",
-      "hoverBackground": "#00000019",
-      "pressedBackground": "#00000028"
-    },
-    "Plugins": {
-      "Button": {
-        "installForeground": "white",
-        "installBackground": "primaryColor",
-        "installBorderColor": "#1f232826",
-        "installFillBackground": "primaryColor",
-        "installFillForeground": "#ffffff",
-        "installFocusedBackground": "primaryColor",
-        "updateBackground": "primaryColor",
-        "updateBorderColor": "#1f232826",
-        "updateForeground": "white"
-      }
-    }
+    "RunWidget.foreground": "foreground",
+    "RunWidget.runningBackground": "primaryColor",
+    "RunWidget.hoverBackground": "#00000019",
+    "RunWidget.pressedBackground": "#00000028",
+    "Plugins.Button.installForeground": "white",
+    "Plugins.Button.installBackground": "primaryColor",
+    "Plugins.Button.installBorderColor": "#1f232826",
+    "Plugins.Button.installFillBackground": "primaryColor",
+    "Plugins.Button.installFillForeground": "#ffffff",
+    "Plugins.Button.installFocusedBackground": "primaryColor",
+    "Plugins.Button.updateBackground": "primaryColor",
+    "Plugins.Button.updateBorderColor": "#1f232826",
+    "Plugins.Button.updateForeground": "white"
   },
   "icons": {
     "ColorPalette": {
