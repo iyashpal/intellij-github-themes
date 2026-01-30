@@ -1,5 +1,5 @@
 {
-  "name": "Github - Green",
+  "name": "Github - Colorblind",
   "dark": false,
   "author": "Yash Pal <iyashpal.dev@gmail.com>",
   "parentTheme": "Islands Light",
@@ -16,6 +16,13 @@
     "selectionBackground": "#ebf0f4"
   },
   "ui": {
+    "Island.borderColor": "white",
+
+    "EditorTabs.underlinedBorderColor": "#00D492",
+    "EditorTabs.underlinedTabBackground": "#EBFDF5",
+    "EditorTabs.inactiveUnderlinedTabBackground": "background",
+    "EditorTabs.inactiveUnderlinedTabBorderColor": "background",
+
     "ActionButton.hoverBackground": "selectionBackground",
     "ActionButton.hoverBorderColor": "borderColor",
     "ActionButton.pressedBackground": "borderColor",
@@ -121,20 +128,18 @@
   },
   "icons": {
     "ColorPalette": {
-      "ColorPalette": {
-        "Tree.iconColor": "#334155",
-        "Checkbox.Border.Default": "#475569",
-        "Checkbox.Border.Disabled": "#cbd5e1",
-        "Checkbox.Border.Selected": "primaryColor",
-        "Checkbox.Background.Default": "#ffffff",
-        "Checkbox.Background.Selected": "primaryColor",
-        "Checkbox.Background.Disabled": "#e2e8f0",
-        "Checkbox.Foreground.Selected": "#ffffff",
-        "Checkbox.Foreground.Disabled": "#94a3b8",
-        "Checkbox.Focus.Wide": "#0075ff70",
-        "Checkbox.Focus.Thin.Default": "primaryColor",
-        "Checkbox.Focus.Thin.Selected": "#0075ff70"
-      }
+      "Tree.iconColor": "#334155",
+      "Checkbox.Border.Default": "#475569",
+      "Checkbox.Border.Disabled": "#cbd5e1",
+      "Checkbox.Border.Selected": "primaryColor",
+      "Checkbox.Background.Default": "#ffffff",
+      "Checkbox.Background.Selected": "primaryColor",
+      "Checkbox.Background.Disabled": "#e2e8f0",
+      "Checkbox.Foreground.Selected": "#ffffff",
+      "Checkbox.Foreground.Disabled": "#94a3b8",
+      "Checkbox.Focus.Wide": "#0075ff70",
+      "Checkbox.Focus.Thin.Default": "primaryColor",
+      "Checkbox.Focus.Thin.Selected": "#0075ff70"
     }
   }
 }

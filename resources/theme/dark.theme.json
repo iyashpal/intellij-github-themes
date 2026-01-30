@@ -101,24 +101,18 @@
     "defaultBackgroundColor": "#21262d"
   },
   "ui": {
-    "*": {
-      "foreground": "GrayB",
-      "background": "defaultBackgroundColor",
-      "hoverBackground": "GrayG",
-      "selectionBackground": "GrayG",
-      "selectionForeground": "White",
-      "selectionInactiveForeground": "GrayB",
-      "selectionInactiveBackground": "GrayI",
-      "lightSelectionBackground": "GrayG",
-      "disabledText": "GrayC",
-      "disabledForeground": "GrayC",
-      "inactiveForeground": "GrayC",
-      "inactiveBackground": "GrayH",
-      "disabledBackground": "GrayG",
-      "disabledBorderColor": "GrayG",
-      "separatorColor": "defaultBackgroundColor",
-      "separatorForeground": "GrayD"
-    },
+    "EditorTabs.underlinedTabForeground": "#ffffff",
+    "EditorTabs.underlinedTabBackground": "#00000040",
+    "EditorTabs.inactiveColoredFileBackground": "#0d1117",
+    "EditorTabs.inactiveUnderlineColor": "defaultBackgroundColor",
+
+    "Tree.selectionBackground": "#0d111740",
+    "Tree.selectionInactiveBackground": "#0d111780",
+
+    "ToolWindow.background": "defaultBackgroundColor",
+    "ToolWindow.Header.background": "defaultBackgroundColor",
+    "ToolWindow.Header.inactiveBackground": "defaultBackgroundColor",
+
     "ActionButton": {
       "hoverBackground": "GrayI",
       "hoverBorderColor": "GrayJ",
