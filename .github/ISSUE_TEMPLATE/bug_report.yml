@@ -1,0 +1,87 @@
+name: Bug report
+description: A color looks wrong, something is hard to read, or the plugin doesn't work in your IDE.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! A screenshot is the most useful thing you can include.
+
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      description: Which theme are you using? (Settings > Appearance & Behavior > Appearance > Theme)
+      multiple: true
+      options:
+        - Github - Dark Default
+        - Github - Dark Dimmed
+        - Github - Dark
+        - Github - Dark Colorblind
+        - Github - Dark Tritanopia
+        - Github - Dark High Contrast
+        - Github - Light Default
+        - Github - Light
+        - Github - Colorblind
+        - Github - Light Tritanopia
+        - Github - Light High Contrast
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where is the problem?
+      options:
+        - IDE interface (panels, menus, popups, title bar, tabs...)
+        - Code editor colors (syntax highlighting)
+        - Diff, Git or VCS colors
+        - Terminal or console colors
+        - Plugin won't install or is incompatible
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      description: Describe what you see and what you expected instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag and drop a screenshot here.
+    validations:
+      required: true
+
+  - type: input
+    id: ide
+    attributes:
+      label: IDE and version
+      description: From Help > About, for example "IntelliJ IDEA 2026.2.1 (Build 262.12345)".
+    validations:
+      required: true
+
+  - type: input
+    id: plugin-version
+    attributes:
+      label: Plugin version
+      description: From Settings > Plugins > GitHub Themes, for example "0.1.0".
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows
+        - Linux
+    validations:
+      required: false

@@ -1,0 +1,41 @@
+name: Theme or color request
+description: Suggest a new theme, a color change, or support for a language or IDE element.
+title: "[Request]: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What would you like?
+      options:
+        - A new theme variant
+        - A color change in an existing theme
+        - Better colors for a language or file type
+        - Styling for an IDE element that isn't themed yet
+        - Something else
+    validations:
+      required: true
+
+  - type: input
+    id: theme
+    attributes:
+      label: Theme(s) this applies to
+      description: For example "Github - Dark Default", or "all themes".
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your request
+      description: What should change, and why? If GitHub or VS Code does it differently, describe or link how.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshots or references
+      description: Optional. Drag and drop images here.
+    validations:
+      required: false

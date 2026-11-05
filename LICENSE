@@ -1,0 +1,53 @@
+Copyright (c) 2023-2026 Yash Pal. All rights reserved.
+
+This software, including all theme files, color schemes, icons and
+documentation (the "Software"), is the proprietary property of Yash Pal.
+
+No part of the Software may be copied, modified, merged, published,
+distributed, sublicensed, sold, or used to create derivative works,
+in whole or in part, without the prior written permission of the
+copyright holder.
+
+Installing the Software from the JetBrains Marketplace grants you a
+personal, non-exclusive, non-transferable license to use it in your
+JetBrains IDEs. This license does not grant any right to redistribute
+the Software or any of its contents.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+"GitHub" is a trademark of GitHub, Inc. This Software is not affiliated
+with, sponsored by, or endorsed by GitHub, Inc.
+
+-------------------------------------------------------------------------------
+Third-party notice
+
+The color values used in this Software are based on GitHub Primer
+(https://github.com/primer/primitives) and GitHub's VS Code theme
+(https://github.com/primer/github-vscode-theme), which are licensed under
+the MIT License:
+
+  MIT License
+
+  Copyright (c) GitHub, Inc.
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
