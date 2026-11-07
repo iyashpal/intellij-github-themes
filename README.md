@@ -7,11 +7,11 @@
 [![WCAG AA](https://img.shields.io/badge/contrast-WCAG%20AA-brightgreen)](#what-you-get)
 [![IDE 2025.3+](https://img.shields.io/badge/IDE-2025.3%2B-black?logo=jetbrains)](https://plugins.jetbrains.com/plugin/20810-github-themes/versions)
 
+![GitHub themes for IntelliJ: the banner, then each of the 11 themes](images/themes.png)
+
 GitHub's VS Code themes for JetBrains IDEs. Your code looks the same as it does in VS Code, and the rest of the IDE uses GitHub's colors.
 
 Works in IntelliJ IDEA, PhpStorm, WebStorm, PyCharm, GoLand, RubyMine, RustRover, CLion, Rider, DataGrip, Android Studio and other JetBrains IDEs.
-
-![Github - Dark Default with a Kotlin file open](images/previews/dark-default.png)
 
 ---
 
@@ -43,12 +43,10 @@ Works in IntelliJ IDEA, PhpStorm, WebStorm, PyCharm, GoLand, RubyMine, RustRover
 ## Screenshots
 
 <table>
-<tr><td><img src="images/previews/dark-default.png" alt="Github - Dark Default"><br><sub><b>Github - Dark Default</b></sub></td><td><img src="images/previews/light-default.png" alt="Github - Light Default"><br><sub><b>Github - Light Default</b></sub></td></tr>
-<tr><td><img src="images/previews/dark-dimmed.png" alt="Github - Dark Dimmed"><br><sub><b>Github - Dark Dimmed</b></sub></td><td><img src="images/previews/light.png" alt="Github - Light"><br><sub><b>Github - Light</b></sub></td></tr>
-<tr><td><img src="images/previews/dark.png" alt="Github - Dark"><br><sub><b>Github - Dark</b></sub></td><td><img src="images/previews/light-colorblind.png" alt="Github - Light Colorblind"><br><sub><b>Github - Light Colorblind</b></sub></td></tr>
-<tr><td><img src="images/previews/dark-colorblind.png" alt="Github - Dark Colorblind"><br><sub><b>Github - Dark Colorblind</b></sub></td><td><img src="images/previews/light-tritanopia.png" alt="Github - Light Tritanopia"><br><sub><b>Github - Light Tritanopia</b></sub></td></tr>
-<tr><td><img src="images/previews/dark-tritanopia.png" alt="Github - Dark Tritanopia"><br><sub><b>Github - Dark Tritanopia</b></sub></td><td><img src="images/previews/light-high-contrast.png" alt="Github - Light High Contrast"><br><sub><b>Github - Light High Contrast</b></sub></td></tr>
-<tr><td><img src="images/previews/dark-high-contrast.png" alt="Github - Dark High Contrast"><br><sub><b>Github - Dark High Contrast</b></sub></td></tr>
+<tr><td width="33%"><img src="images/previews/dark-default.png" alt="Github - Dark Default"><br><sub><b>Github - Dark Default</b></sub></td><td width="33%"><img src="images/previews/dark-dimmed.png" alt="Github - Dark Dimmed"><br><sub><b>Github - Dark Dimmed</b></sub></td><td width="33%"><img src="images/previews/dark.png" alt="Github - Dark"><br><sub><b>Github - Dark</b></sub></td></tr>
+<tr><td width="33%"><img src="images/previews/dark-colorblind.png" alt="Github - Dark Colorblind"><br><sub><b>Github - Dark Colorblind</b></sub></td><td width="33%"><img src="images/previews/dark-tritanopia.png" alt="Github - Dark Tritanopia"><br><sub><b>Github - Dark Tritanopia</b></sub></td><td width="33%"><img src="images/previews/dark-high-contrast.png" alt="Github - Dark High Contrast"><br><sub><b>Github - Dark High Contrast</b></sub></td></tr>
+<tr><td width="33%"><img src="images/previews/light-default.png" alt="Github - Light Default"><br><sub><b>Github - Light Default</b></sub></td><td width="33%"><img src="images/previews/light.png" alt="Github - Light"><br><sub><b>Github - Light</b></sub></td><td width="33%"><img src="images/previews/light-colorblind.png" alt="Github - Light Colorblind"><br><sub><b>Github - Light Colorblind</b></sub></td></tr>
+<tr><td width="33%"><img src="images/previews/light-tritanopia.png" alt="Github - Light Tritanopia"><br><sub><b>Github - Light Tritanopia</b></sub></td><td width="33%"><img src="images/previews/light-high-contrast.png" alt="Github - Light High Contrast"><br><sub><b>Github - Light High Contrast</b></sub></td></tr>
 </table>
 
 ## Requirements
