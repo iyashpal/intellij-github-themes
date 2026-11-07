@@ -2,6 +2,10 @@
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/20810-github-themes.svg)](https://plugins.jetbrains.com/plugin/20810-github-themes)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/20810-github-themes.svg)](https://plugins.jetbrains.com/plugin/20810-github-themes)
+[![Release date](https://img.shields.io/github/release-date/iyashpal/intellij-github-themes)](https://github.com/iyashpal/intellij-github-themes/releases)
+[![Themes](https://img.shields.io/badge/themes-11-blue)](#what-you-get)
+[![WCAG AA](https://img.shields.io/badge/contrast-WCAG%20AA-brightgreen)](#what-you-get)
+[![IDE 2025.3+](https://img.shields.io/badge/IDE-2025.3%2B-black?logo=jetbrains)](https://plugins.jetbrains.com/plugin/20810-github-themes/versions)
 
 GitHub's VS Code themes for JetBrains IDEs. Your code looks the same as it does in VS Code, and the rest of the IDE uses GitHub's colors.
 
